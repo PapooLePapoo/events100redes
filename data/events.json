@@ -1,0 +1,1249 @@
+{
+  "source": "https://agenda.coimbra.pt/",
+  "updated_at": "2026-04-14T13:46:22.059Z",
+  "total": 43,
+  "evenements": [
+    {
+      "id": "y4o834t0a89rnw84",
+      "titre": "Cinema e audiovisualO Estrangeiro, de François Ozon14 Abr14:45 - 22 Abr21:30Casa do Cinema de Coimbra",
+      "categories": [
+        "14 Abr",
+        "14:45",
+        "-",
+        "22 Abr",
+        "21:30"
+      ],
+      "date_debut": {
+        "iso": "2026-04-14T12:45:00.000Z",
+        "texte_original": "14 Abr14:45"
+      },
+      "date_fin": {
+        "iso": "2026-04-22T19:30:00.000Z",
+        "texte_original": "22 Abr21:30"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/bu9jnqkqwbszdzpoelhcxlipz8e8fuq6/large/o_estrangeiro_carrossel_01.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/y4o834t0a89rnw84",
+      "description": "Casa do Cinema de Coimbra (CCC) | Piso 0, Galerias Avenida || Auditório Salgado Zenha (ASZ) | Piso 0, Associação Académica de Coimbra",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.508Z"
+    },
+    {
+      "id": "pn7ifg0hv0gbwlxb",
+      "titre": "Cinema e audiovisualO Drama, de Kristoffer Borgli14 Abr16:45 - 21 Abr18:00Casa do Cinema de Coimbra",
+      "categories": [
+        "14 Abr",
+        "16:45",
+        "-",
+        "21 Abr",
+        "18:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-14T14:45:00.000Z",
+        "texte_original": "14 Abr16:45"
+      },
+      "date_fin": {
+        "iso": "2026-04-21T16:00:00.000Z",
+        "texte_original": "21 Abr18:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/x60rx272yijvvigx9ildmwazscd8gbq3/large/o_drama_carrossel_01.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/pn7ifg0hv0gbwlxb",
+      "description": "14 abr. TER 16:45 CCC15 abr. QUA 18:00 ASZ16 abr. QUI 18:45 CCC17 abr. SEX 16:30 CCC18 abr. SÁB 21:30 CCC19 abr. DOM 16:30 CCC20 abr. SEG 17:00 CCC21 abr. TER 18:00 ASZ",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.508Z"
+    },
+    {
+      "id": "a2avhw6ztki7tx7o",
+      "titre": "Conferências e CongressosLiteraturaHistórias de Mitologia e de Medicina Grega | Imprensa da Universidade no Rómulo14 Abr17:30 - 18:45RÓMULO | Piso 0, Dep. Física UC | Rua Larga, Coimbra",
+      "categories": [
+        "14 Abr",
+        "17:30",
+        "-",
+        "18:45"
+      ],
+      "date_debut": {
+        "iso": "2026-04-14T15:30:00.000Z",
+        "texte_original": "14 Abr17:30"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/sywz5fefkdb8ubcfbu8qs0ajad434egc/large/conhecimento_do_oriente_-_livro.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/a2avhw6ztki7tx7o",
+      "description": "Esta obra bilíngue, da autoria de Susana Marques Pereira, Cláudia Cravo, Mónica Durán Mañas e Alicia Esteban Santos, é fruto de uma colaboração entre professores e investigadores de Portugal e Espanha, incluindo dois textos originais seguidos de uma série de atividades didáticas pensadas para leitores de todas as idades. A obra será apresentada por Fátima Ferreira, Professora Auxiliar Convidada na Faculdade de Letras da UC, e Fernando Regateiro, Professor Catedrático Jubilado da Faculdade de Medicina da UC.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.509Z"
+    },
+    {
+      "id": "tw8s1ff7i8n5unz8",
+      "titre": "LiteraturaConferências e CongressosApresentação do livro \"Histórias de Mitologia e de Medicina Grega\"14 Abr17:30 - 18:30RÓMULO – Departamento de Física da FCTUC",
+      "categories": [
+        "14 Abr",
+        "17:30",
+        "-",
+        "18:30"
+      ],
+      "date_debut": {
+        "iso": "2026-04-14T15:30:00.000Z",
+        "texte_original": "14 Abr17:30"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/0bk5ko1cz7p4z2029eecuku3xkdx08aw/large/screenshot_2026-04-13_at_17_29_18.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/tw8s1ff7i8n5unz8",
+      "description": null,
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.509Z"
+    },
+    {
+      "id": "13gk0m38w8yy9wp1",
+      "titre": "MúsicaCPJAZZ - Café Curto14 Abr19:30 - 20:00Convento São Francisco",
+      "categories": [
+        "14 Abr",
+        "19:30",
+        "-",
+        "20:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-14T17:30:00.000Z",
+        "texte_original": "14 Abr19:30"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/q690wpyecnm0h056pvkk7mrll9frz5m7/large/fzb7yn1774009760961.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/13gk0m38w8yy9wp1",
+      "description": "Na importância fulcral dos primeiros palcos e apresentações ao vivo, os alunos do Curso Profissional de Instrumentista de Jazz da Escola Artística do Conservatório de Música de Coimbra sobem ao palco do Café-Concerto para mostrar muito do que vão aprendendo no mundo imersivo da sua formação académica. A presença no Café Curto surge, sobretudo, como desafio para que os jovens músicos apresentem repertório e trabalho original. Ao longo de 2026, os showcases do Combo de Jazz serão preparados de forma intensiva em estágio/residência artística no estúdio da Blue House.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.510Z"
+    },
+    {
+      "id": "pwn65y61grqyqzax",
+      "titre": "Cinema e audiovisualNino, de Pauline Loquès14 Abr21:30 - 22 Abr14:45Casa do Cinema de Coimbra",
+      "categories": [
+        "14 Abr",
+        "21:30",
+        "-",
+        "22 Abr",
+        "14:45"
+      ],
+      "date_debut": {
+        "iso": "2026-04-14T19:30:00.000Z",
+        "texte_original": "14 Abr21:30"
+      },
+      "date_fin": {
+        "iso": "2026-04-22T12:45:00.000Z",
+        "texte_original": "22 Abr14:45"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/4czysyxu3ps6ktqhqkcpq2m1ckp2p76g/large/nino_carrossel_01.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/pwn65y61grqyqzax",
+      "description": "Casa do Cinema de Coimbra (CCC) | Piso 0, Galerias Avenida || Auditório Salgado Zenha (ASZ) | Piso 0, Associação Académica de Coimbra",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.511Z"
+    },
+    {
+      "id": "dunxzck0e6zaccoi",
+      "titre": "LiteraturaCalçar os Sapatos do Outro15 AbrCasa da Escrita",
+      "categories": [
+        "15 Abr"
+      ],
+      "date_debut": {
+        "iso": "2026-04-14T22:00:00.000Z",
+        "texte_original": "15 Abr"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/9g0oiflbizklfnwyw0lllyfh0z4mz1ha/large/mfo0cq1776079955588.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/dunxzck0e6zaccoi",
+      "description": "A programação performativa abre espaço à poesia dita e vivida em palco, explorando novas formas de expressão artística. A 15 de abril, às 21h30, realiza-se uma sessão do ciclo de performance “Calçar os Sapatos do Outro”, com Francisca Camelo, numa coprodução com a Associação Cultural e Artística Grande Coisa! (ACAGC!). Uma performance poética que convida o público a explorar várias perspetivas através da palavra e da expressão corporal.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.511Z"
+    },
+    {
+      "id": "dnsg4qur3i39djji",
+      "titre": "Eleva o Teu Futuro15 AbrPraça Heróis do Ultramar",
+      "categories": [
+        "15 Abr"
+      ],
+      "date_debut": {
+        "iso": "2026-04-14T22:00:00.000Z",
+        "texte_original": "15 Abr"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/e3f1qedqasaxv2neyhzg10ikpvx0hbmz/large/ceogyz81775825769496.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/dnsg4qur3i39djji",
+      "description": "A Câmara Municipal de Coimbra coorganiza, com o Núcleo de Estudantes de Economia da Associação Académica de Coimbra (NEE/AAC), a feira de emprego “Eleva o Teu Futuro”, que se realiza no próximo dia 15 de abril, entre as 10h00 e as 18h00, na Praça Heróis do Ultramar. A iniciativa pretende aproximar estudantes e comunidade do mercado de trabalho, criando um espaço de contacto direto entre candidatos e entidades empregadoras e promovendo a empregabilidade jovem. A participação é gratuita e aberta a estudantes da Universidade de Coimbra, de outras instituições de ensino superior e ao público em geral.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.511Z"
+    },
+    {
+      "id": "kt5xbfi7zjsbw63c",
+      "titre": "Cinema e audiovisualRomaria, de Carla Simón07 Abr14:45 - 15 Abr16:45Casa do Cinema de Coimbra",
+      "categories": [
+        "07 Abr",
+        "14:45",
+        "-",
+        "15 Abr",
+        "16:45"
+      ],
+      "date_debut": {
+        "iso": "2026-04-07T12:45:00.000Z",
+        "texte_original": "07 Abr14:45"
+      },
+      "date_fin": {
+        "iso": "2026-04-15T14:45:00.000Z",
+        "texte_original": "15 Abr16:45"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/v7ijip7ldsroe8aouulsraclwfbtfomm/large/romaria_carrossel_01.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/kt5xbfi7zjsbw63c",
+      "description": "07 abr. TER 14:45 ASZ07 abr. TER 18:45 CCC08 abr. QUA 21:30 CCC09 abr. QUI 16:30 CCC10 abr. SEX 14:45 ASZ12 abr. DOM 21:30 CCC13 abr. SEG 14:45 ASZ14 abr. TER 14:30 CCC15 abr. QUA 16:45 CCC",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.512Z"
+    },
+    {
+      "id": "nbwyv29z5bj0p0hh",
+      "titre": "Cinema e audiovisualNossa Terra, de Lucrecia Martel09 Abr14:45 - 14 Abr18:45Casa do Cinema de Coimbra",
+      "categories": [
+        "09 Abr",
+        "14:45",
+        "-",
+        "14 Abr",
+        "18:45"
+      ],
+      "date_debut": {
+        "iso": "2026-04-09T12:45:00.000Z",
+        "texte_original": "09 Abr14:45"
+      },
+      "date_fin": {
+        "iso": "2026-04-14T16:45:00.000Z",
+        "texte_original": "14 Abr18:45"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/cad12w68c5si183rqel9ww70wktbnlf6/large/nossa_terra_carrossel_01.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/nbwyv29z5bj0p0hh",
+      "description": "Casa do Cinema de Coimbra (CCC) | Piso 0, Galerias Avenida || Auditório Salgado Zenha (ASZ) | Piso 0, Associação Académica de Coimbra",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.512Z"
+    },
+    {
+      "id": "t7z7j97g2g349mgv",
+      "titre": "Cinema e audiovisualCervantes: Antes de Dom Quixote, de Alejandro Amenábar09 Abr18:45 - 15 Abr19:00Casa do Cinema de Coimbra",
+      "categories": [
+        "09 Abr",
+        "18:45",
+        "-",
+        "15 Abr",
+        "19:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-09T16:45:00.000Z",
+        "texte_original": "09 Abr18:45"
+      },
+      "date_fin": {
+        "iso": "2026-04-15T17:00:00.000Z",
+        "texte_original": "15 Abr19:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/uctr8vxbsgzo2ev5mnnxgo8dx2o4xxxg/large/cervantes_carrossel_01.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/t7z7j97g2g349mgv",
+      "description": "09 abr. QUI 18:45 CCC10 abr. SEX 21:30 CCC11 abr. SÁB 19:00 CCC12 abr. DOM 16:00 CCC13 abr. SEG 14:30 CCC14 abr. TER 18:00 ASZ15 abr. QUA 19:00 CCC",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.512Z"
+    },
+    {
+      "id": "mghcax1cuj48paui",
+      "titre": "Conferências e Congressos[Ciclo de Debates] Intersecções: 6 diálogos para entender quem somos03 Fev16:00 - 02 Jul18:00Auditório 2 (Student Hub UC)",
+      "categories": [
+        "03 Fev",
+        "16:00",
+        "-",
+        "02 Jul",
+        "18:00"
+      ],
+      "date_debut": {
+        "iso": "2026-02-03T15:00:00.000Z",
+        "texte_original": "03 Fev16:00"
+      },
+      "date_fin": {
+        "iso": "2026-07-02T16:00:00.000Z",
+        "texte_original": "02 Jul18:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/azovofigkhoxw059w0hlzjk5eltu3waf/large/screenshot_2026-01-13_at_12_07_45.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/mghcax1cuj48paui",
+      "description": null,
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.513Z"
+    },
+    {
+      "id": "j7amlfhuh6hdfgnj",
+      "titre": "Conferências e CongressosCiclo de conferências «ONGOING: desafios de um museu em obras»20 Fev14:30 - 15 Mai16:30Largo Dr. José Rodrigues 3000-236 Coimbra",
+      "categories": [
+        "20 Fev",
+        "14:30",
+        "-",
+        "15 Mai",
+        "16:30"
+      ],
+      "date_debut": {
+        "iso": "2026-02-20T13:30:00.000Z",
+        "texte_original": "20 Fev14:30"
+      },
+      "date_fin": {
+        "iso": "2026-05-15T14:30:00.000Z",
+        "texte_original": "15 Mai16:30"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/i3y3krc4rsswscjbp0j9hx31locopj7o/large/ongoing_final.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/j7amlfhuh6hdfgnj",
+      "description": "Ao longo de quatro sessões, com periodicidade mensal, reunimos um conjunto de investigadores e profissionais para debater o futuro do museu, revisitar soluções museográficas, analisar linhas de investigação, discutir a preparação das novas reservas, abordar as transformações do edifício e as mudanças que se perspetivam.Primeira conferência pretende revisitar soluções museográficas no MNMCSob o tema museografia - da narrativa ao espaço habitado, a conferência de abertura, no dia 20 de fevereiro, convida investigadores, estudantes, profissionais e todos os interessados a uma visita exclusiva à exposição Diálogos: A coleção Calouste Gulbenkian no Museu Nacional de Machado de Castro, com especial enfoque nos desafios da sua montagem. Esta é também uma das últimas oportunidades para ver a exposição antes do seu encerramento, no domingo, 22 de fevereiro.Participação gratuita mediante inscrição prévia (obrigatória): comunicacao.mnmc@museusemonumentos.pt. Lotação limitada.Local: Sala Europeia (piso 1), MNMC",
+      "adresse": "3000-236 CoimbraConferências e CongressosAo longo de quatro sessões",
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.514Z"
+    },
+    {
+      "id": "1ep49a8sgpib1ld8",
+      "titre": "Conferências e CongressosIntersecções: 6 diálogos para entender quem somos03 Mar16:00 - 02 Jul18:00Auditório 2 do Student Hub",
+      "categories": [
+        "03 Mar",
+        "16:00",
+        "-",
+        "02 Jul",
+        "18:00"
+      ],
+      "date_debut": {
+        "iso": "2026-03-03T15:00:00.000Z",
+        "texte_original": "03 Mar16:00"
+      },
+      "date_fin": {
+        "iso": "2026-07-02T16:00:00.000Z",
+        "texte_original": "02 Jul18:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/okcj0rvkwnn8rg82ft07gr4xap234dpt/large/intersecc_o_es_cartaz_page-0001_1.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/1ep49a8sgpib1ld8",
+      "description": "A Universidade de Coimbra acolhe, entre os meses de fevereiro e julho de 2026, o ciclo de debates \"Intersecções: 6 diálogos para entender quem somos\". Esta iniciativa interdisciplinar propõe uma reflexão profunda sobre a condição humana, cruzando perspetivas da Neurociência, Psicologia, Filosofia e Sociologia.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.514Z"
+    },
+    {
+      "id": "hoxyhayicjwzvfjm",
+      "titre": "Cursos e WorkshopsCurso Pós-Graduado de Equipas de Trauma27 Fev00:00 - 26 Mai00:00FMUC",
+      "categories": [
+        "27 Fev",
+        "00:00",
+        "-",
+        "26 Mai"
+      ],
+      "date_debut": {
+        "iso": "2026-02-26T23:00:00.000Z",
+        "texte_original": "27 Fev00:00"
+      },
+      "date_fin": {
+        "iso": "2026-05-25T22:00:00.000Z",
+        "texte_original": "26 Mai00:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/cbbd9u6tdxolosz6e3qf2tb56vtjlxer/large/curso_pos-graduado_de_equipas_de_trauma_-_capa.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/hoxyhayicjwzvfjm",
+      "description": "O curso tem como objetivo promover a melhoria contínua dos cuidados ao doente em risco de vida em contexto de sala de emergência, em particular em situações de trauma grave, através do desenvolvimento de competências não técnicas. De natureza presencial, integra um módulo teórico e um módulo prático, com foco no trabalho em equipa em trauma, na gestão de eventos multivítimas e na realização de debriefings eficazes da equipa de trauma.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.514Z"
+    },
+    {
+      "id": "76xji5u93dxi0hxl",
+      "titre": "Cursos e WorkshopsLaboratório linguístico27 Mar13:30 - 08 Mai14:30Sala de Estudos Italianos (piso 5, FLUC)",
+      "categories": [
+        "27 Mar",
+        "13:30",
+        "-",
+        "08 Mai",
+        "14:30"
+      ],
+      "date_debut": {
+        "iso": "2026-03-27T12:30:00.000Z",
+        "texte_original": "27 Mar13:30"
+      },
+      "date_fin": {
+        "iso": "2026-05-08T12:30:00.000Z",
+        "texte_original": "08 Mai14:30"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/yh2275xeqn442ea5jocdcplja4wv6r76/large/laboratorio_linguistico_iei.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/76xji5u93dxi0hxl",
+      "description": null,
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.515Z"
+    },
+    {
+      "id": "i4k74s9qoci5qvch",
+      "titre": "DesportoCursos e WorkshopsWorkshop GPS WIMU | Indoor & Outdoor08 Abr10:00 - 15 Abr14:00Estádio Universitário de Coimbra",
+      "categories": [
+        "08 Abr",
+        "10:00",
+        "-",
+        "15 Abr",
+        "14:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-08T08:00:00.000Z",
+        "texte_original": "08 Abr10:00"
+      },
+      "date_fin": {
+        "iso": "2026-04-15T12:00:00.000Z",
+        "texte_original": "15 Abr14:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/zgz5jdfyb3glge0rsmg02gkxucagnwh8/large/1.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/i4k74s9qoci5qvch",
+      "description": "O Polo CIPER-UC promove o workshop “Utilização Prática dos Dispositivos GPS WIMU em Contextos Indoor e Outdoor”, uma ação de caráter prático e aplicado, dirigida a estudantes, treinadores, preparadores físicos, investigadores e profissionais das Ciências do Desporto interessados na utilização de tecnologia GPS em contextos de treino, rendimento e investigação. A formação decorre em duas sessões complementares, orientadas pelo Professor Doutor Joel Barrera-Díaz, combinando fundamentos teóricos essenciais com contacto direto com os dispositivos WIMU e o software associado.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.515Z"
+    },
+    {
+      "id": "kvaax5dc5j6eisf0",
+      "titre": "Cursos e WorkshopsLudi Conimbrigenses 2026 | Formação de monitores15 Abr10:30 - 13:00Sala do IEC (piso 5, FLUC)",
+      "categories": [
+        "15 Abr",
+        "10:30",
+        "-",
+        "13:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-15T08:30:00.000Z",
+        "texte_original": "15 Abr10:30"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/3kl3cclsjofp5j1yo80c2hgxvbxrs0xf/large/lvdi_2026_miniatura_copy.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/kvaax5dc5j6eisf0",
+      "description": null,
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.515Z"
+    },
+    {
+      "id": "x7n3bjha4tb6p1mi",
+      "titre": "PerformanceDançaAbril Dança Coimbra02 Abr - 29 AbrTeatro Académico de Gil Vicente e Convento São Francisco",
+      "categories": [
+        "02 Abr",
+        "-",
+        "29 Abr"
+      ],
+      "date_debut": {
+        "iso": "2026-04-01T22:00:00.000Z",
+        "texte_original": "02 Abr"
+      },
+      "date_fin": {
+        "iso": "2026-04-28T22:00:00.000Z",
+        "texte_original": "29 Abr"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/r1fj7ojskjnnbmikm8inxcl95qmyuqm1/large/qz31mg1774021563706.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/x7n3bjha4tb6p1mi",
+      "description": "A dimensão inclusiva e comunitária volta a assumir um papel de destaque, nomeadamente com a iniciativa “Dançar com Parkinson”, uma sessão que promove o bem-estar físico e emocional através da dança, envolvendo utentes, famílias e comunidade, e que decorre mensalmente no CSF, com a particularidade de ser aberta ao público, no dia 11, às 11h00, no Foyer do CSF. Paralelamente, o festival aposta na formação de públicos, com atividades dirigidas a escolas e famílias, como as oficinas “Hoje a aula é no teatro!” (15, 20 e 29, às 10h00, na Black Box) e “Em cada esquina, um bailarino” (dia 19, às 16h00, e dia 26, às 11h00, no Foyer), orientadas pela bailarina Noeli Kikuchi, que participou na primeira edição do projeto Rampa, em 2023.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.516Z"
+    },
+    {
+      "id": "zd7lgv9iz4csdjce",
+      "titre": "DançaHoje a aula é no teatro15 Abr10:00 - 29 AbrConvento São Francisco",
+      "categories": [
+        "15 Abr",
+        "10:00",
+        "-",
+        "29 Abr"
+      ],
+      "date_debut": {
+        "iso": "2026-04-15T08:00:00.000Z",
+        "texte_original": "15 Abr10:00"
+      },
+      "date_fin": {
+        "iso": "2026-04-28T22:00:00.000Z",
+        "texte_original": "29 Abr"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/x9scucn8ll5hhiwzvrcid561h27yo656/large/tm1pkb1776172027459.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/zd7lgv9iz4csdjce",
+      "description": "O festival Abril Dança Coimbra está a decorrer até 29 de abril, com cerca de 15 propostas que cruzam criação artística contemporânea com uma forte componente de participação do público, no Convento São Francisco e no Teatro Académico de Gil Vicente. O festival aposta na formação de públicos, com atividades dirigidas a escolas e famílias, como a oficina “Hoje a aula é no teatro!”, orientadas pela bailarina Noeli Kikuchi, que vai decorrer nos dias 15, 20 e 29, às 10h00, na Black Box do Convento São Francisco. A participação na oficina, exclusiva para escolas, tem o custo de dois euros.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.516Z"
+    },
+    {
+      "id": "tpr5j0ko0mlvcq3w",
+      "titre": "DançaWonderLandi - Lander Patrick16 Abr21:30 - 22:50Convento São Francisco",
+      "categories": [
+        "16 Abr",
+        "21:30",
+        "-",
+        "22:50"
+      ],
+      "date_debut": {
+        "iso": "2026-04-16T19:30:00.000Z",
+        "texte_original": "16 Abr21:30"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/upsok4p3shv1ixycpokccxx4n6f0i8tg/large/oh76361773923439620.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/tpr5j0ko0mlvcq3w",
+      "description": "Embora não haja consenso sobre se foi a música ou a linguagem que surgiu primeiro, é inegável que o curso da nossa civilização teria sido profundamente alterado sem o contributo inestimável deste património imaterial. Ao longo dos tempos, os poderes políticos, as instituições religiosas e os movimentos culturais e ideológicos têm explorado a música como um poderoso vetor de difusão de mensagens, de formação da opinião pública e de despertar emoções. Um exemplo emblemático é a Revolução dos Cravos em Portugal, em 1974, em que a emissão de duas canções na rádio catalisou uma revolta popular e militar, precipitando a queda da ditadura e inaugurando uma era de democracia no país.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.517Z"
+    },
+    {
+      "id": "n89ehhh1knsh4g0r",
+      "titre": "DançaPerformanceQuando Vem a Taciturna de Limiar em Limiar o Presente Frágil | Espetáculo + Masterclass + Conversa27 Abr18:00 - 30 Abr19:00Oficina Municipal do Teatro",
+      "categories": [
+        "27 Abr",
+        "18:00",
+        "-",
+        "30 Abr",
+        "19:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-27T16:00:00.000Z",
+        "texte_original": "27 Abr18:00"
+      },
+      "date_fin": {
+        "iso": "2026-04-30T17:00:00.000Z",
+        "texte_original": "30 Abr19:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/k86ejaicw3gwq9djm78pq05f15o3i4bo/large/quandovem_agenda_v01.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/n89ehhh1knsh4g0r",
+      "description": "FICHA ARTÍSTICA E TÉCNICADireção, Coreografia, Dramaturgia e Formação: Hugo Calhim Cristóvão & Joana von Mayer TrindadeDança e Interpretação: Sara Miguelote, Lucia Marrodan, Ethel Desdames e Marta PieczulDesenho de Luz: Luís RibeiroFigurinos: UN TCenografia: NuIsIs ZoBoP & UN TSonoplastia: Paulo Costa & NuIsIs ZoBoPDesenho de Som: João Oliveira & NuIsIs ZoBoPTeoria e Filosofia: Hugo Calhim Cristóvão, Joana von Mayer Trindade, Celeste Natário, Carlos Pimenta, Cláudia Marisa, Cristina Aguiar, Ezequiel Santos, Hugo Monteiro, Rui Lopo, Mário Correia, Nuno Matos Duarte, Elter Manuel Carlos, Chris Page, Afonso Becerra, Armando Nascimento Rosa, Madalena Xavier, Ana Coimbra Oliveira, Paulo Azevedo e Sofia Vilar SoaresVídeo: Os FredericosFotografia: Alípio Padilha, João Peixoto e José CaldeiraProdução Executiva: Cristina Aguiar & NuIsIs ZoBoPCoproduções: Casa das Artes de Famalicão, Centro Cultural Vila Flor – Guimarães, Teatro Stephens – Marinha Grande, Oficina Municipal do Teatro – Coimbra, Teatro Municipal de Bragança – Algures a Nordeste Festival de Dança Contemporânea, Casa Varela – Centro de Experimentação Artística-Cineteatro Pombal, Fábrica da Criatividade — Castelo Branco e Teatro Municipal do Porto – Festival DDDApoio: Teatro Aveirense, Teatro Rosalía de Castro, CorunhaResidências Artísticas: Casa Varela – Centro de Experimentação Artística, Kale/Armazém 22, Centro de Criação do Candoso / Fábrica Asa – Guimarães, Teatro Viriato – Viseu, Casa Museu Afonso Lopes Vieira – Marinha Grande, Teatro Aveirense, Centro de Criação e Investigação NuIsIs ZoBoP – PortoParcerias: Instituto de Filosofia da Faculdade de Letras da Universidade do Porto, Instituto de Sociologia da Universidade do Porto - FLUP, Escola do Superior de Educação do Porto, Escola Superior de Arte Dramática da Galiza, ESMAE-Escola Superior Música e Artes do Espetáculo do Porto, Teatro Helena Sá e Costa, Universidade Lusófona do Porto, Fórum Dança e Espaço Agra.Financiamento NuIsIs ZoBoP: República Portuguesa – Cultura, Juventude e Desporto / Direção-Geral das Artes",
+      "adresse": null,
+      "prix": {
+        "valeur": 10,
+        "gratuit": false,
+        "texte_original": "10€"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.517Z"
+    },
+    {
+      "id": "0cvhpwla6vsw63x2",
+      "titre": "DesportoConferências e CongressosSeminário Internacional: Da Evidência à Excelência: Performance, Pedagogia e Formação de Treinadores21 Abr08:30 - 12:00Estádio Universitário de Coimbra",
+      "categories": [
+        "21 Abr",
+        "08:30",
+        "-",
+        "12:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-21T06:30:00.000Z",
+        "texte_original": "21 Abr08:30"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/563sfbmsqnzhz6rjshkxm4lc6u5l6g90/large/1-1.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/0cvhpwla6vsw63x2",
+      "description": "Este seminário tem como objetivo promover a integração entre evidência científica e prática profissional, proporcionando a estudantes de licenciatura, mestrado e doutoramento, bem como a treinadores e profissionais do desporto, uma compreensão aprofundada dos princípios contemporâneos da performance desportiva, pedagogia do desporto, treino e formação de treinadores.A iniciativa pretende reforçar a formação inicial e contínua na área das Ciências do Desporto, promovendo o contacto direto com especialistas nacionais e internacionais e estimulando o pensamento crítico, a atualização científica e o desenvolvimento de práticas fundamentadas em evidência, contribuindo para a melhoria da qualidade do ensino, do treino e do rendimento desportivo.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.517Z"
+    },
+    {
+      "id": "ksw2rn5gbc37vgk5",
+      "titre": "DesportoCursos e WorkshopsFormação | Dinamómetro Isocinético HUMAC®️Norm23 Abr14:00 - 16:00Laboratório Integrado da FCDEFUC",
+      "categories": [
+        "23 Abr",
+        "14:00",
+        "-",
+        "16:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-23T12:00:00.000Z",
+        "texte_original": "23 Abr14:00"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/vhjrgys2gxe8no55ywxvh6i27k3t8p5t/large/3.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/ksw2rn5gbc37vgk5",
+      "description": "Durante a sessão serão apresentados os procedimentos essenciais relacionados com as características do equipamento, componentes e funcionalidades, bem como a sua operação, configuração técnica e utilização na aquisição e gestão de dados, explorando o seu potencial em contextos de avaliação e desempenho.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.518Z"
+    },
+    {
+      "id": "arj8pmwpmz4ib253",
+      "titre": "Desporto27.ª Légua Diário de Coimbra04 Jul Rua da Sofia",
+      "categories": [
+        "04 Jul"
+      ],
+      "date_debut": {
+        "iso": "2026-07-03T22:00:00.000Z",
+        "texte_original": "04 Jul"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/i937t4uuuymyj9jp6b2tknert5106h2e/large/3rnmqb1775568814300.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/arj8pmwpmz4ib253",
+      "description": "A 27.ª Légua Diário de Coimbra, prova coorganizada pelo Diário de Coimbra e pela Câmara Municipal de Coimbra, realiza-se no Dia da Cidade, a 4 de julho. Após o regresso da iniciativa no ano passado, a edição de 2026 volta a associar a prática desportiva à celebração da cidade. As inscrições já estão abertas e, até ao 24 de maio, decorrem com um valor promocional de 4,96 euros para a corrida de 5 quilómetros e para a caminhada, ambas limitadas a 500 participantes.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.518Z"
+    },
+    {
+      "id": "2i52kwbxqg3i9xt5",
+      "titre": "ExposiçõesColeção Telo de Morais16 Jun 2001a31 Dez 2026Edífício Chiado",
+      "categories": [
+        "16 Jun 2001",
+        "a",
+        "31 Dez 2026"
+      ],
+      "date_debut": {
+        "iso": "2001-06-15T22:00:00.000Z",
+        "texte_original": "16 Jun 2001"
+      },
+      "date_fin": {
+        "iso": "2026-12-30T23:00:00.000Z",
+        "texte_original": "31 Dez 2026"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/bdxolp4fq860tc28zfnk6wka03hjzlcq/large/uwb9u61753118813263.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/2i52kwbxqg3i9xt5",
+      "description": "O edifício inaugurado em 1910 como filial dos Grandes Armazéns do Chiado é um curioso exemplar da arquitetura do ferro que acolhe atualmente uma exposição permanente de arte (pintura portuguesa, porcelanas, mobiliário e arte sacra) doada pelo casal Telo de Morais. Neste conjunto destacam-se os núcleos de porcelanas chinesas, com significativos exemplares, e de pintura, onde se pode conhecer os principais artistas portugueses dos séculos XIX e XX.De entrada livre, no 4º sábado de cada mês, pode ser visitada de terça a sexta-feira, entre as 10h00 e as 18h00, e aos sábados e aos domingos, das 10h00 às 13h00 e das 14h00 às 18h00.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.518Z"
+    },
+    {
+      "id": "ykclqzc9xdssmeu9",
+      "titre": "ExposiçõesNúcleo da Guitarra e do Fado de Coimbra07 Abr 2015a31 Dez 2026Torre de Anto",
+      "categories": [
+        "07 Abr 2015",
+        "a",
+        "31 Dez 2026"
+      ],
+      "date_debut": {
+        "iso": "2015-04-06T22:00:00.000Z",
+        "texte_original": "07 Abr 2015"
+      },
+      "date_fin": {
+        "iso": "2026-12-30T23:00:00.000Z",
+        "texte_original": "31 Dez 2026"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/fyswpr0tnjhix0xxjld4socklax5qbgd/large/mf5cti1753118813243.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/ykclqzc9xdssmeu9",
+      "description": "Instalado numa antiga torre da muralha medieval, o Núcleo da Guitarra e do Fado de Coimbra, aborda, através de objetos e equipamentos interativos, as várias fases da história desta música característica da cidade de Coimbra. Neste espaço encontram-se expostas duas das guitarras que o grande mestre Carlos Paredes ofereceu à cidade.A exposição está patente de terça a domingo, das 10h00 às 13h00 e das 14h00 às 18h00. Encerra à segunda-feira e feriados.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.519Z"
+    },
+    {
+      "id": "dtpud1wb3pkp0n8w",
+      "titre": "ExposiçõesEu Dona Isabel Rainha de Portugal19 Ago 2022a23 Mai 2026Torre de Almedina",
+      "categories": [
+        "19 Ago 2022",
+        "a",
+        "23 Mai 2026"
+      ],
+      "date_debut": {
+        "iso": "2022-08-18T22:00:00.000Z",
+        "texte_original": "19 Ago 2022"
+      },
+      "date_fin": {
+        "iso": "2026-05-22T22:00:00.000Z",
+        "texte_original": "23 Mai 2026"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/9e0zd3n4bmjqs2t0yj8dhuvd3d1qhzg3/large/iuamw71755610748417.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/dtpud1wb3pkp0n8w",
+      "description": "A exposição “Eu Dona Isabel, Rainha de Portugal” patente, na Torre de Almedina, assinala os 400 anos da canonização de D. Isabel de Aragão, conhecida como Rainha Santa, e vai estar patente até 23 de maio de 2026. A curadoria é de Milton Pacheco e de Raquel Magalhães. A entrada é livre e a exposição pode ser visitada de terça-feira a sábado, das 10h00 às 13h00 e das 14h00 às 18h00.A exposição está organizada em três núcleos temáticos: “Vida da Rainha”, “Vontade da Rainha” e “Coimbra da Rainha”. No primeiro, apresenta-se uma síntese biográfica de D. Isabel de Aragão, infanta de Aragão e esposa de D. Dinis, canonizada em 1625. O segundo núcleo aborda o seu testamento e a distribuição do seu património. O último destaca a ligação da Rainha Santa à cidade de Coimbra, nomeadamente através da fundação do Mosteiro de Santa Clara, onde foi sepultada e deixou o seu tesouro. D. Isabel passou os últimos anos da sua vida em Coimbra, após a morte do rei, em 1325. Faleceu em 1336 e viria a ser canonizada na Basílica de São Pedro, em Roma, pelo Papa Urbano VIII. Desde então, Coimbra acolheu-a como padroeira, homenageando a sua figura religiosa e política nas festas bienais e na tradicional procissão que se realiza em torno do dia 4 de julho, data da sua morte. A mostra pretende dar a conhecer o legado espiritual, social e patrimonial da Rainha Santa, figura central na história e identidade de Coimbra.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.519Z"
+    },
+    {
+      "id": "ixt522wdshhd10xc",
+      "titre": "ExposiçõesGastronomia[Exposição] Joias de Família: O Belo Comestível20 Mai09:00 - 19 Jun17:00Museu Nacional Machado de Castro (Coimbra) e o Centro Cultural de Belém (Lisboa)",
+      "categories": [
+        "20 Mai",
+        "09:00",
+        "-",
+        "19 Jun",
+        "17:00"
+      ],
+      "date_debut": {
+        "iso": "2026-05-20T07:00:00.000Z",
+        "texte_original": "20 Mai09:00"
+      },
+      "date_fin": {
+        "iso": "2026-06-19T15:00:00.000Z",
+        "texte_original": "19 Jun17:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/l2qnejmp0glpbmfufazsbm6992zauodh/large/2026-05-20_21_exposicao_joias_da_familia_miniatura_a-1.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/ixt522wdshhd10xc",
+      "description": null,
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.520Z"
+    },
+    {
+      "id": "mfqw75jm3002axll",
+      "titre": "InfantilPrograma de abril da Biblioteca Infantil01 Abr - 30 AbrCasa Municipal da Cultura",
+      "categories": [
+        "01 Abr",
+        "-",
+        "30 Abr"
+      ],
+      "date_debut": {
+        "iso": "2026-03-31T22:00:00.000Z",
+        "texte_original": "01 Abr"
+      },
+      "date_fin": {
+        "iso": "2026-04-29T22:00:00.000Z",
+        "texte_original": "30 Abr"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/927ad7n7vjwdqt7iad0us3f0lhne8vhl/large/j5fpxe1774547767948.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/mfqw75jm3002axll",
+      "description": "A programação inclui ainda várias iniciativas para crianças a partir dos três anos. No dia 11 de abril, às 16h00, realiza-se a sessão “Contos e Ritmos com Pedagogia Waldorf”. No dia 18 de abril, também às 16h00, Milú Loureiro apresenta o livro “O Pássaro Quadrado”, na sala Sá de Miranda. Nesse mesmo dia, entre as 14h30 e as 17h30, a Biblioteca Infantil acolhe um encontro de jogos de tabuleiro promovido pela Associação Inclusão Contacto, com participação livre.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.520Z"
+    },
+    {
+      "id": "f4i76z9rxn8a4gnd",
+      "titre": "Cursos e WorkshopsTeatroInfantil[MARIONETAS | OFICINA] Formas Animadas | GRASIELA MÜLLER18 Abr11:00 - 13:00Teatro da Cerca de São Bernardo",
+      "categories": [
+        "18 Abr",
+        "11:00",
+        "-",
+        "13:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-18T09:00:00.000Z",
+        "texte_original": "18 Abr11:00"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/1v79nzihs0j9yolcuij81uax32jf90ic/large/1000001720.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/f4i76z9rxn8a4gnd",
+      "description": "\"Nesta oficina sensível e criativa, as crianças são convidadas a embarcar em uma jornada de imaginação e descoberta a partir das possibilidades que cada materialidade e formas pode oferecer. Ao explorar texturas, cores, estilos, cada participante criará sua própria forma de dar vida e movimento às figuras que ganham corpo, presença e vida através da experimentação.Mais do que construir personagens, a proposta é um mergulho nas possibilidades criativas que surgem do contacto directo com os materiais e da criação em colectivo. Ao manipular esses elementos com as mãos e com o corpo, as crianças desenvolvem sua expressividade e imaginação, enquanto estabelecem uma relação afetiva e sensorial com o território onde vivem.\"",
+      "adresse": null,
+      "prix": {
+        "valeur": 10,
+        "gratuit": false,
+        "texte_original": "10€"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.521Z"
+    },
+    {
+      "id": "5vgt4cslondvp1cl",
+      "titre": "InfantilCursos e WorkshopsTeatro[ILUSTRAÇÃO | OFICINA] Prrrrrrr! Vivaaaaao 25 deapriiiilleee!!!! | ANA BISCAIA25 Abr11:00 - 13:00Teatro da Cerca de São Bernardo",
+      "categories": [
+        "25 Abr",
+        "11:00",
+        "-",
+        "13:00"
+      ],
+      "date_debut": {
+        "iso": null,
+        "texte_original": "25 dea"
+      },
+      "date_fin": {
+        "iso": "2026-04-25T09:00:00.000Z",
+        "texte_original": "25 Abr11:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/3sqp9dq29h7eut7oxry3g4a1nrfy1cz9/large/img_20260407_0002-1-1424x2048.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/5vgt4cslondvp1cl",
+      "description": "Nesta oficina vamos descobrir a poesia visual, o desenho das letras, a brincadeira que pode existir na escrita das palavras. O desenho experimental originando permanentemente a surpresa. Vamos aprender com exemplos de trabalhos de poesia experimental e visual portuguesa e não só.E vamos celebrar o dia em que a poesia saiu à rua, num dia de céu encoberto, em que a cidade parecia um carrossel maravilhoso.",
+      "adresse": null,
+      "prix": {
+        "valeur": 10,
+        "gratuit": false,
+        "texte_original": "10€"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.521Z"
+    },
+    {
+      "id": "w8524sab3ogbg8vo",
+      "titre": "Cursos e WorkshopsMúsicaInfantil[MÚSICA | OFICINA] Silêncio que se vai brincar com o som [música para pais e filhos] | TOMÁS CRUZ02 Mai11:00 - 12:00Jardim da Cerca de São Bernardo",
+      "categories": [
+        "02 Mai",
+        "11:00",
+        "-",
+        "12:00"
+      ],
+      "date_debut": {
+        "iso": "2026-05-02T09:00:00.000Z",
+        "texte_original": "02 Mai11:00"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/iiuqhcz3itrp3vswy9s9wgzxtzo5tdg3/large/504215587_1304192195039850_6888548692739854756_n.1200x0.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/w8524sab3ogbg8vo",
+      "description": "\"Uma roda participativa: jogos, dinâmicas e experiências sonoras que despertam a curiosidade das crianças. Ao explorar diferentes sons, ritmos e instrumentos, descobrem como a música nasce, se transforma e ganha novas formas. Há sempre espaço para a imaginação através de histórias e palavras que se tornam canções.Esta oficina valoriza a expressão, a escuta e a partilha, promovendo o desenvolvimento musical desde cedo. Enquanto isso, reforçam-se os laços familiares proporcionando novas formas de interação, brincadeira e comunicação que podem (e devem) ser levadas para casa.\"",
+      "adresse": null,
+      "prix": {
+        "valeur": 10,
+        "gratuit": false,
+        "texte_original": "10€"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.522Z"
+    },
+    {
+      "id": "3r5prxb7yy8a8676",
+      "titre": "LiteraturaComunidade de Leitores14 Jan - 31 DezBiblioteca Municipal de Coimbra",
+      "categories": [
+        "14 Jan",
+        "-",
+        "31 Dez"
+      ],
+      "date_debut": {
+        "iso": "2026-01-13T23:00:00.000Z",
+        "texte_original": "14 Jan"
+      },
+      "date_fin": {
+        "iso": "2026-12-30T23:00:00.000Z",
+        "texte_original": "31 Dez"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/gjc8qra4la12yhzqz0s9ctzkpndn9rd0/large/lm57k61768407027229.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/3r5prxb7yy8a8676",
+      "description": "As reuniões da Comunidade de Leitores realizam-se na última quinta-feira de cada mês, às 18h30, e estão abertas a todos os interessados. A participação pode ser formalizada presencialmente na Biblioteca Municipal de Coimbra, através do endereço eletrónico biblioteca@cm-coimbra.pt ou do contacto telefónico 239 702 630 (chamada para a rede fixa nacional).",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.522Z"
+    },
+    {
+      "id": "xq6lt7ailn8vflb3",
+      "titre": "LiteraturaContos levados da breca20 Mar - 26 JunBibliotecas Anexas",
+      "categories": [
+        "20 Mar",
+        "-",
+        "26 Jun"
+      ],
+      "date_debut": {
+        "iso": "2026-03-19T23:00:00.000Z",
+        "texte_original": "20 Mar"
+      },
+      "date_fin": {
+        "iso": "2026-06-25T22:00:00.000Z",
+        "texte_original": "26 Jun"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/m36fk4z7yoetkxdzxp9jf2v0zjx1xqvj/large/974rr1773331035011.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/xq6lt7ailn8vflb3",
+      "description": "A sessão inspira-se em três obras que, parafraseando a escritora Luísa Ducla Soares, fazem dos livros um verdadeiro “jardim para brincar”. Às rimas bem-humoradas de “A fada palavrinha e o gigante das bibliotecas”, de Luísa Ducla Soares, junta-se uma história mágica sobre a descoberta da alegria e do prazer da leitura, presente em “Eu (odeio) adoro livros”, de Mariajo Ilustrajo. Os participantes são também convidados a descobrir a história de uma princesa muito determinada em “Quero uma história!”, de Tony Ross.",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.522Z"
+    },
+    {
+      "id": "ljh9ctnz6w3pfaki",
+      "titre": "LiteraturaEste livro de reles estofo01 Abr18:30 - 30 Abr18:00Casa da Escrita",
+      "categories": [
+        "01 Abr",
+        "18:30",
+        "-",
+        "30 Abr",
+        "18:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-01T16:30:00.000Z",
+        "texte_original": "01 Abr18:30"
+      },
+      "date_fin": {
+        "iso": "2026-04-30T16:00:00.000Z",
+        "texte_original": "30 Abr18:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/qmzes0snzskbzxr3aqepvasusljsmnsl/large/nf8xry1774448134736.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/ljh9ctnz6w3pfaki",
+      "description": "A exposição inclui também um núcleo dedicado à censura de mulheres escritoras, uma intervenção com características próprias. Entre os exemplos apresentados estão as “Novas Cartas Portuguesas”, das Três Marias (Maria Velho da Costa, Maria Teresa Horta e Maria Isabel Barreno), publicadas em 1972, bem como obras de autoras como Natália Correia, Nita Clímaco, Maria Archer ou Fiama H. Pais Brandão. A mostra integra ainda referências a autoras internacionais como Simone de Beauvoir e Françoise Sagan.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.522Z"
+    },
+    {
+      "id": "bi3ns543vsr4ea8x",
+      "titre": "MúsicaInstruMensal28 Set 2025a26 Jul 2026Vários Locais",
+      "categories": [
+        "28 Set 2025",
+        "a",
+        "26 Jul 2026"
+      ],
+      "date_debut": {
+        "iso": "2025-09-27T22:00:00.000Z",
+        "texte_original": "28 Set 2025"
+      },
+      "date_fin": {
+        "iso": "2026-07-25T22:00:00.000Z",
+        "texte_original": "26 Jul 2026"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/1ewmf1c7j637tas9jpt26fd95v2zhig1/large/elqlbv1757063695037.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/bi3ns543vsr4ea8x",
+      "description": "Em 2026, o ciclo retoma a 11 de janeiro, no Salão Brazil, com Rui Fernandes, e a 8 de fevereiro no Teatro da Cerca de São Bernardo, com Espiral. Seguem-se Pedro Jóia, a 29 de março, na sala D. Afonso Henriques (Convento São Francisco), e o grupo Sol a Sol, a 12 de abril, no Salão Brazil. O atelier A Fábrica recebe, a 10 de maio, o Duo Cordibus, e a 21 de junho o Seminário Maior de Coimbra acolhe o Duo Iguazú. O festival termina a 26 de julho, de novo no atelier A Fábrica, com os The Seven Hills Pickers.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.523Z"
+    },
+    {
+      "id": "sqomtuf6llovm03p",
+      "titre": "MúsicaCafé Curto 202613 Jan19:30 - 22 Dez20:00Convento São Francisco",
+      "categories": [
+        "13 Jan",
+        "19:30",
+        "-",
+        "22 Dez",
+        "20:00"
+      ],
+      "date_debut": {
+        "iso": "2026-01-13T18:30:00.000Z",
+        "texte_original": "13 Jan19:30"
+      },
+      "date_fin": {
+        "iso": "2026-12-22T19:00:00.000Z",
+        "texte_original": "22 Dez20:00"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/ch2y7eqjsl9bgwt4tkmx3qev5a8hnv74/large/fgo0ae1767603436760.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/sqomtuf6llovm03p",
+      "description": "Após o disco homónimo de 2019 e O Alpinista (2022), aclamado pela Blitz como um dos discos do ano, Esteves — também letrista e vocalista dos Trêsporcento — regressa em 2025 com o EP Onde Seria Onde. Em O Alpinista, o músico debruçou-se sobre temas contemporâneos como o drama dos refugiados (Que o Mar Leve), a pandemia (Ter Onde Ficar) e a celebração da beleza natural de Portugal (Caminho Plano). No novo EP, que conta com a participação de vários convidados, entre os quais Cat Falcão (Golden Slumbers, Monday), Frankie Chavez e Pedro Branco, Esteves aprofunda a exploração da condição humana e do contexto social e cultural que a molda, cruzando a tradição popular portuguesa com a folk anglo-saxónica, sempre guiado pela sua inconfundível escrita em português. Neste showcase, Esteves assume a voz e as guitarras, acompanhado em palco pelo multi-instrumentista João Gil (Vitorino Voador, You Can't Win, Charlie Brown, SAL).",
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.523Z"
+    },
+    {
+      "id": "tpo4itjqkb9vbxmd",
+      "titre": "MúsicaFolclore Português01 Abr - 26 JunCasa Municipal da Cultura",
+      "categories": [
+        "01 Abr",
+        "-",
+        "26 Jun"
+      ],
+      "date_debut": {
+        "iso": "2026-03-31T22:00:00.000Z",
+        "texte_original": "01 Abr"
+      },
+      "date_fin": {
+        "iso": "2026-06-25T22:00:00.000Z",
+        "texte_original": "26 Jun"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/gasotcw8uudx50pfabb0x68kkxbgzova/large/up1wdj1774887140173.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/tpo4itjqkb9vbxmd",
+      "description": "O acesso ao Serviço de Audiovisuais da Biblioteca Municipal de Coimbra acolhe, a partir de quarta-feira, 1 de abril, e até 26 de junho, a mostra de capas de discos de vinil “Folclore Português”. A exposição reúne uma seleção do fundo discográfico da Biblioteca Municipal dedicada ao folclore enquanto expressão do património cultural imaterial português, evidenciando tradições, músicas e identidades regionais.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.523Z"
+    },
+    {
+      "id": "crq8fkiltnwlwps5",
+      "titre": "ExposiçõesMúsicaBienal Anozero 202611 Abr - 05 JunVários locais",
+      "categories": [
+        "11 Abr",
+        "-",
+        "05 Jun"
+      ],
+      "date_debut": {
+        "iso": "2026-04-10T22:00:00.000Z",
+        "texte_original": "11 Abr"
+      },
+      "date_fin": {
+        "iso": "2026-06-04T22:00:00.000Z",
+        "texte_original": "05 Jun"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/ur88k2jrqfb0l7yuqpjhncg2ief2bpq6/large/3a7n9a1775641400623.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/crq8fkiltnwlwps5",
+      "description": "Na Sala da Cidade, é apresentada a obra “Stendhal Syndrome” (2024), de Nan Goldin, uma peça de imagem em movimento com cerca de 25 minutos, com banda sonora original do Soundwalk Collective. No Convento São Francisco, a Sala do Capítulo acolhe a instalação sonora e escultórica “se estas pedras falassem” (2026), de Maria Trabulo, uma obra que parte dos ecos do espólio do Museu de Raqqa, na Síria, destruído e pilhado durante a guerra entre 2013 e 2017. Por sua vez, no Edifício Chiado, a bienal reúne obras de vários artistas: Frédéric Bruly Bouabré, Sandro Chia, Colectivo SEM-FIM, Eva Davidova, Mário Macilau, Adriana Molder e João Salema.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.524Z"
+    },
+    {
+      "id": "q9n7v2jo4cb2cek1",
+      "titre": "PerformanceEnfreakment - Diana Niepce23 Abr19:00 - 20:00Convento São Francisco",
+      "categories": [
+        "23 Abr",
+        "19:00",
+        "-",
+        "20:00"
+      ],
+      "date_debut": {
+        "iso": "2026-04-23T17:00:00.000Z",
+        "texte_original": "23 Abr19:00"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/4nbuftlgrhzeos33y55qjk2xile501d8/large/y8qwoj1773923607907.jpg?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/q9n7v2jo4cb2cek1",
+      "description": "Enfreakment, de Diana Niepce, é uma performance-conferência que investiga a história dos corpos não normativos nas artes performativas, tanto a nível nacional como internacional. Através do movimento, a obra examina a genealogia da dança, revelando as violências e políticas de exclusão que moldaram a sua evolução. Questiona as narrativas históricas e propõe uma reimaginação do corpo para além das normas impostas. Ao desafiar normas, a coreógrafa portuguesa Diana Niepce criou Enfreakment, uma performance que defende a visibilidade, a transformação e a expansão das fronteiras da dança.",
+      "adresse": null,
+      "prix": {
+        "valeur": 0,
+        "gratuit": true,
+        "texte_original": "Entrada livre"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.524Z"
+    },
+    {
+      "id": "b2kxbiser31nmg7p",
+      "titre": "Cursos e WorkshopsPerformanceTeatroLudi Conimbrigenses 202608 Mai10:00 - 17:00Ruínas de Conímbriga",
+      "categories": [
+        "08 Mai",
+        "10:00",
+        "-",
+        "17:00"
+      ],
+      "date_debut": {
+        "iso": "2026-05-08T08:00:00.000Z",
+        "texte_original": "08 Mai10:00"
+      },
+      "date_fin": null,
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/qtzq7z6mk8qdovp821h4j8sba5td7ayj/large/lvdi_2026_miniatura.1200x0.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/b2kxbiser31nmg7p",
+      "description": null,
+      "adresse": null,
+      "prix": {
+        "valeur": null,
+        "gratuit": false,
+        "texte_original": null
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.524Z"
+    },
+    {
+      "id": "17d7aqggdharqzpo",
+      "titre": "TeatroElas São 5 Milhões17 Abr21:30Teatro Académico de Gil Vicente",
+      "categories": [
+        "17 Abr",
+        "21:30"
+      ],
+      "date_debut": {
+        "iso": null,
+        "texte_original": "5 Mil"
+      },
+      "date_fin": {
+        "iso": "2026-04-17T19:30:00.000Z",
+        "texte_original": "17 Abr21:30"
+      },
+      "lieu": null,
+      "image": "https://storage-x.fw.uc.pt/p/25ftmar02wua19icu2thrd3bfcm3brn7/large/kwopx1774956348147.png?dl=0",
+      "lien_detail": "https://agenda.coimbra.pt/event/17d7aqggdharqzpo",
+      "description": "Atual, porque estamos sempre a começar; porque as lutas pela igualdade continuam na ordem do dia; porque apesar de todas as evoluções, há sempre um pau na engrenagem que a impede de funcionar. As atividades do quotidiano, as relações sócio-culturais, as condições económicas, as dores de parto, os sonhos rasgados ou secretos, continuam a ter contornos pesados de frustração nas vidas das mulheres. Não só nas vidas dos 4 milhões de que fala Maria Velho da Costa. Juntamos mais um milhão, tantas quantas cresceram nestes anos de democracia.",
+      "adresse": null,
+      "prix": {
+        "valeur": 10,
+        "gratuit": false,
+        "texte_original": "10€"
+      },
+      "source_url": "https://agenda.coimbra.pt/",
+      "scrape_at": "2026-04-14T13:45:23.525Z"
+    }
+  ]
+}
