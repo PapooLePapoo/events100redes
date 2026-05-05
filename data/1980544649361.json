@@ -1,0 +1,29 @@
+{
+  "id": "1980544649361",
+  "titre": "AfrobBeach 2026 - Sat 23rd May",
+  "categories": [
+    "Food",
+    "Food & Drink",
+    "Party or Social Gathering",
+    "Brunch",
+    "Afrobeats",
+    "Sat",
+    "Lisbon",
+    "Porto",
+    "Amapiano"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-05-23",
+  "date_fin": "2026-05-24",
+  "ongoing": false,
+  "lieu": "Waikiki",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178771331%2F1625759547373%2F1%2Foriginal.20260302-092037?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5f47598b61dfbf5dde87d6d64cb045da",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.com/e/afrobbeach-2026-sat-23rd-may-tickets-1980544649361",
+  "lien_detail": "https://www.eventbrite.com/e/afrobbeach-2026-sat-23rd-may-tickets-1980544649361",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:51.719Z"
+}

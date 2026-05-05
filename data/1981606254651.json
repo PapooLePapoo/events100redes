@@ -1,0 +1,28 @@
+{
+  "id": "1981606254651",
+  "titre": "Intelligence",
+  "categories": [
+    "Science",
+    "Science & Technology",
+    "Conference",
+    "Strategy",
+    "Knowledge",
+    "Insight",
+    "Analysis",
+    "Brainstorm"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-10-17",
+  "date_fin": "2026-10-18",
+  "ongoing": false,
+  "lieu": "Porto Business School",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177457484%2F596685039953%2F1%2Foriginal.20260213-113335?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.364&fp-y=0.491&s=59e1bd4b5a467112b751b2ff6ff54b5e",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.pt/e/intelligence-tickets-1981606254651",
+  "lien_detail": "https://www.eventbrite.pt/e/intelligence-tickets-1981606254651",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:54.512Z"
+}

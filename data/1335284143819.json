@@ -1,0 +1,30 @@
+{
+  "id": "1335284143819",
+  "titre": "ISTQB Test Analyst Training Course (in English) - Lisbon",
+  "categories": [
+    "High Tech",
+    "Science & Technology",
+    "Class, Training, or Workshop",
+    "Learn",
+    "Certification",
+    "Certified",
+    "Learn",
+    "Certification",
+    "Science",
+    "high_tech"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-06-01",
+  "date_fin": "2026-06-01",
+  "ongoing": false,
+  "lieu": "Regus - Lisbon, Chiado",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1013082913%2F195639312499%2F1%2Foriginal.20250421-103237?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.0527426160338&fp-y=0.611872146119&s=111728420cacb129332fe74f63a2430b",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.com/e/istqb-test-analyst-training-course-in-english-lisbon-tickets-1335284143819",
+  "lien_detail": "https://www.eventbrite.com/e/istqb-test-analyst-training-course-in-english-lisbon-tickets-1335284143819",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:51.720Z"
+}

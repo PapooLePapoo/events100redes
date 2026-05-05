@@ -1,0 +1,28 @@
+{
+  "id": "1985001081670",
+  "titre": "Almoço Solidário",
+  "categories": [
+    "Poverty",
+    "Charity & Causes",
+    "Dinner or Gala",
+    "almoco_solidario",
+    "evento_beneficente",
+    "comida_para_todos",
+    "acao_solidaria",
+    "juntos_pelajuda"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-05-09",
+  "date_fin": "2026-05-09",
+  "ongoing": false,
+  "lieu": "Quinta das Carpas",
+  "image": null,
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.pt/e/almoco-solidario-tickets-1985001081670",
+  "lien_detail": "https://www.eventbrite.pt/e/almoco-solidario-tickets-1985001081670",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:59.988Z"
+}

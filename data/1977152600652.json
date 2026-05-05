@@ -1,0 +1,33 @@
+{
+  "id": "1977152600652",
+  "titre": "World Happiness Summit® 2026",
+  "categories": [
+    "Personal health",
+    "Health & Wellness",
+    "Conference",
+    "Wellness",
+    "Community",
+    "Coaching",
+    "Happiness",
+    "Wellbeing",
+    "Kindness",
+    "happiness_and_well_being",
+    "happiness_at_work",
+    "wellbeing_at_work",
+    "worldhappiness"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-05-16",
+  "date_fin": "2026-05-17",
+  "ongoing": false,
+  "lieu": "Nova School of Business and Economics",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173865861%2F201477351698%2F1%2Foriginal.20260102-213947?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fd795a6cf670289a2a0cedfdac8e8470",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.com/e/world-happiness-summit-2026-tickets-1977152600652",
+  "lien_detail": "https://www.eventbrite.com/e/world-happiness-summit-2026-tickets-1977152600652",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:51.719Z"
+}

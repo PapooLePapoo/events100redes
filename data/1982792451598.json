@@ -1,0 +1,27 @@
+{
+  "id": "1982792451598",
+  "titre": "Emel Mathlouthi Live in Lisbon",
+  "categories": [
+    "Music",
+    "Concert or Performance",
+    "music_performance",
+    "singer_songwriter",
+    "live_concert",
+    "emel_mathlouthi",
+    "lisbon_live"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-07-05",
+  "date_fin": "2026-07-05",
+  "ongoing": false,
+  "lieu": "Capitólio",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179690438%2F2600993917661%2F1%2Foriginal.20260312-145057?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=170cfa499d81346e965fa64f65174a00",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.pt/e/emel-mathlouthi-live-in-lisbon-tickets-1982792451598",
+  "lien_detail": "https://www.eventbrite.pt/e/emel-mathlouthi-live-in-lisbon-tickets-1982792451598",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:51.719Z"
+}

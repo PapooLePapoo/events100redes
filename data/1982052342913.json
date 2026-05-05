@@ -1,0 +1,28 @@
+{
+  "id": "1982052342913",
+  "titre": "Concerto João Balouta",
+  "categories": [
+    "Orchestra",
+    "Performing & Visual Arts",
+    "Concert or Performance",
+    "Show",
+    "Música",
+    "Concerto",
+    "Evento",
+    "joãobalouta"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-05-16",
+  "date_fin": "2026-05-16",
+  "ongoing": false,
+  "lieu": "AUDITÓRIO EDMMM",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179135736%2F2990547608051%2F1%2Foriginal.20260305-185907?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.163&fp-y=0.485&s=9e8aef7919c9ee62a16c044349bd1ed1",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.com/e/bilhetes-concerto-joao-balouta-1982052342913",
+  "lien_detail": "https://www.eventbrite.com/e/bilhetes-concerto-joao-balouta-1982052342913",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:54.512Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1986072284667",
+  "titre": "Conferência de Homens 2026",
+  "categories": [
+    "Christianity",
+    "Religion & Spirituality",
+    "Seminar or Talk",
+    "Workshop",
+    "Event",
+    "Concerto",
+    "Fhop",
+    "portugal_events",
+    "fhop_music",
+    "leiria_events",
+    "marinhagrandeconferences"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-05-15",
+  "date_fin": "2026-05-16",
+  "ongoing": false,
+  "lieu": "Igreja Verbo da Vida Leiria",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182052369%2F201060342928%2F1%2Foriginal.20260413-165606?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.105&fp-y=0.302&s=306fef5ce90ea7d88dde5cf73269e514",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.pt/e/bilhetes-conferencia-de-homens-2026-1986072284667",
+  "lien_detail": "https://www.eventbrite.pt/e/bilhetes-conferencia-de-homens-2026-1986072284667",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:57.291Z"
+}

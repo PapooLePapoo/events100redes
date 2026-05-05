@@ -1,0 +1,28 @@
+{
+  "id": "1980098330409",
+  "titre": "1 Irishman in Porto | A stand-up comedy show in English | 9PM",
+  "categories": [
+    "Comedy",
+    "Performing & Visual Arts",
+    "Concert or Performance",
+    "Standup",
+    "English",
+    "Lisbon",
+    "Comedyshow",
+    "Irishman"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-12-12",
+  "date_fin": "2026-12-12",
+  "ongoing": false,
+  "lieu": "Auditório CCOP",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1158376943%2F2439741819401%2F1%2Foriginal.20251021-103727?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f23f1cde3c185707a9fa3a699dff3a0f",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.co.uk/e/1-irishman-in-porto-a-stand-up-comedy-show-in-english-9pm-tickets-1980098330409",
+  "lien_detail": "https://www.eventbrite.co.uk/e/1-irishman-in-porto-a-stand-up-comedy-show-in-english-9pm-tickets-1980098330409",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:54.512Z"
+}

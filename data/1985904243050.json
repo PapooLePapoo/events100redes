@@ -1,0 +1,33 @@
+{
+  "id": "1985904243050",
+  "titre": "Bajonca Rock Fest 2026",
+  "categories": [
+    "Rock",
+    "Music",
+    "Festival or Fair",
+    "Blackmetal",
+    "Stonerrock",
+    "Deathmetal",
+    "Thrashmetal",
+    "psychedelicrock",
+    "bajoncarockfest",
+    "festivalsounds",
+    "rockfest2026",
+    "bajonca_live",
+    "rockmusic2026"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-07-10",
+  "date_fin": "2026-07-11",
+  "ongoing": false,
+  "lieu": "Valadares",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180645238%2F511014649891%2F1%2Foriginal.20260325-105108?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.689&fp-y=0.595&s=3c655ee12445384e4c47c7ea11b1fcbd",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.pt/e/bajonca-rock-fest-2026-tickets-1985904243050",
+  "lien_detail": "https://www.eventbrite.pt/e/bajonca-rock-fest-2026-tickets-1985904243050",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:57.291Z"
+}

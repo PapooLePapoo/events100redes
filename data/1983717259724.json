@@ -1,0 +1,28 @@
+{
+  "id": "1983717259724",
+  "titre": "Marcelo Duque - Sem Filtro - Braga",
+  "categories": [
+    "Comedy",
+    "Performing & Visual Arts",
+    "Concert or Performance",
+    "Liveperformance",
+    "Comedyshow",
+    "marceloduque",
+    "semfiltro",
+    "bragaevent"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-05-28",
+  "date_fin": "2026-05-28",
+  "ongoing": false,
+  "lieu": "Alma do Raio",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178274266%2F2992963620577%2F1%2Foriginal.20260224-040456?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ed7900a6cd9d1a6b808023c9788f0088",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.com/e/marcelo-duque-sem-filtro-braga-tickets-1983717259724",
+  "lien_detail": "https://www.eventbrite.com/e/marcelo-duque-sem-filtro-braga-tickets-1983717259724",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:59.988Z"
+}

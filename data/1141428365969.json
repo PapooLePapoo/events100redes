@@ -1,0 +1,28 @@
+{
+  "id": "1141428365969",
+  "titre": "Porto Tech Connect",
+  "categories": [
+    "High Tech",
+    "Science & Technology",
+    "Conference",
+    "Networking",
+    "Tech",
+    "Innovation",
+    "Event",
+    "Munich"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-09-24",
+  "date_fin": "2026-09-24",
+  "ongoing": false,
+  "lieu": "Devexperts Portugal",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178289285%2F2166420515923%2F1%2Foriginal.20260224-104213?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C13%2C1200%2C600&s=fc44d29318674b67a1f50d094529d0a9",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.co.uk/e/porto-tech-connect-tickets-1141428365969",
+  "lien_detail": "https://www.eventbrite.co.uk/e/porto-tech-connect-tickets-1141428365969",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-05T22:35:54.512Z"
+}
