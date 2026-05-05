@@ -1,0 +1,19 @@
+{
+  "id": "9ysq0syuremf8zw6",
+  "titre": "Festa do Cinema Italiano",
+  "categories": [],
+  "source": "CM Coimbra",
+  "date_debut": "2026-05-06T01:00:00+01:00",
+  "date_fin": "2026-05-08T01:00:00+01:00",
+  "ongoing": false,
+  "lieu": "Teatro Académico de Gil Vicente",
+  "image": "https://storage.fw.uc.pt/fp/ss4ulfsbt90tni2na2huwuv81k7jockb/uhqz3a1776703971339.png",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "",
+  "lien_detail": "https://agenda.coimbra.pt/event/9ysq0syuremf8zw6",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.179Z"
+}

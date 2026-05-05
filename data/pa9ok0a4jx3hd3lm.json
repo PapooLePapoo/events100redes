@@ -1,0 +1,21 @@
+{
+  "id": "pa9ok0a4jx3hd3lm",
+  "titre": "Crianças à Procura de Mãe, de Hiroshi Shimizu",
+  "categories": [
+    "cinema"
+  ],
+  "source": "UC",
+  "date_debut": "2026-05-05T14:30:00+01:00",
+  "date_fin": "2026-05-07T14:45:00+01:00",
+  "ongoing": true,
+  "lieu": "Casa do Cinema de Coimbra",
+  "image": "https://storage.fw.uc.pt/fp/j3ggwvaqmu65lf0mk0v697svrxret3ul/criancas_a_procura_de_mae_carrossel_01.1200x0.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/pa9ok0a4jx3hd3lm",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.178Z"
+}

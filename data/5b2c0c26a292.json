@@ -1,0 +1,22 @@
+{
+  "id": "5b2c0c26a292",
+  "titre": "Feira Nacional de Olivicultura 2026 - Moura",
+  "categories": [
+    "Festa",
+    "Arraial"
+  ],
+  "source": "FestasArraiais",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://cdn.festasearraiais.pt/thumbs/feira-nacional-de-olivicultura-2026-moura-9440-1777571884.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/eventos/feira-nacional-de-olivicultura-2026-moura-9440",
+  "source_url": "https://festasearraiais.pt/",
+  "scrape_at": "2026-05-05T22:29:45.338Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "424b8e5b731e",
+  "titre": "Festa em honra de Santo Estevão 2026 - Ribeira de Baixo",
+  "categories": [
+    "Festa",
+    "Arraial"
+  ],
+  "source": "FestasArraiais",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://cdn.festasearraiais.pt/thumbs/festa-em-honra-de-santo-estevao-2026-ribeira-de-baixo-9150-1774812779.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/eventos/festa-em-honra-de-santo-estevao-2026-ribeira-de-baixo-9150",
+  "source_url": "https://festasearraiais.pt/",
+  "scrape_at": "2026-05-05T22:29:45.339Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "7147ebb8a5d3",
+  "titre": "Festas em honra de N. Senhora do Rosário 2026 - Mosteiro",
+  "categories": [
+    "Festa",
+    "Arraial"
+  ],
+  "source": "FestasArraiais",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://cdn.festasearraiais.pt/thumbs/festas-em-honra-de-n-senhora-do-rosario-2026-mosteiro-9429-1777571608.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/eventos/festas-em-honra-de-n-senhora-do-rosario-2026-mosteiro-9429",
+  "source_url": "https://festasearraiais.pt/",
+  "scrape_at": "2026-05-05T22:29:45.344Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sqomtuf6llovm03p",
+  "titre": "Café Curto 2026",
+  "categories": [
+    "music"
+  ],
+  "source": "Convento São Francisco",
+  "date_debut": "2026-01-13T19:30:00+00:00",
+  "date_fin": "2026-12-22T20:00:00+00:00",
+  "ongoing": true,
+  "lieu": "Convento São Francisco",
+  "image": "https://storage.fw.uc.pt/fp/ch2y7eqjsl9bgwt4tkmx3qev5a8hnv74/fgo0ae1767603436760.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "www.coimbraconvento.pt",
+  "lien_detail": "https://agenda.coimbra.pt/event/sqomtuf6llovm03p",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.178Z"
+}

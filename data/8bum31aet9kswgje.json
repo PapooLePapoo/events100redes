@@ -1,0 +1,21 @@
+{
+  "id": "8bum31aet9kswgje",
+  "titre": "O Acidente com o Piano, de Quentin Dupieux",
+  "categories": [
+    "cinema"
+  ],
+  "source": "UC",
+  "date_debut": "2026-05-05T16:15:00+01:00",
+  "date_fin": "2026-05-13T14:45:00+01:00",
+  "ongoing": true,
+  "lieu": "Casa do Cinema de Coimbra",
+  "image": null,
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/8bum31aet9kswgje",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.179Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5e02f376832d",
+  "titre": "Festa em honra de Santo André 2026 - Oronhe",
+  "categories": [
+    "Festa",
+    "Arraial"
+  ],
+  "source": "FestasArraiais",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://cdn.festasearraiais.pt/thumbs/festa-em-honra-de-santo-andre-2026-oronhe-9423-1777571523.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/eventos/festa-em-honra-de-santo-andre-2026-oronhe-9423",
+  "source_url": "https://festasearraiais.pt/",
+  "scrape_at": "2026-05-05T22:29:45.341Z"
+}

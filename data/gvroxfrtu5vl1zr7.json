@@ -1,0 +1,21 @@
+{
+  "id": "gvroxfrtu5vl1zr7",
+  "titre": "Azulejos Enxaquetados de Coimbra",
+  "categories": [
+    "exhibition"
+  ],
+  "source": "CM Coimbra",
+  "date_debut": "2026-05-06T01:00:00+01:00",
+  "date_fin": "2026-05-24T01:00:00+01:00",
+  "ongoing": false,
+  "lieu": "Câmara Municipal de Coimbra",
+  "image": "https://storage.fw.uc.pt/fp/bwscvjjmrtyzma8t9ilxqz46tb0xfzox/i03ain1777909607087.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "",
+  "lien_detail": "https://agenda.coimbra.pt/event/gvroxfrtu5vl1zr7",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.179Z"
+}

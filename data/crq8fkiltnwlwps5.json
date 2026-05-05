@@ -1,0 +1,22 @@
+{
+  "id": "crq8fkiltnwlwps5",
+  "titre": "Bienal Anozero 2026",
+  "categories": [
+    "exhibition",
+    "music"
+  ],
+  "source": "CM Coimbra",
+  "date_debut": "2026-04-11T01:00:00+01:00",
+  "date_fin": "2026-06-05T01:00:00+01:00",
+  "ongoing": true,
+  "lieu": "Vários locais",
+  "image": "https://storage.fw.uc.pt/fp/ur88k2jrqfb0l7yuqpjhncg2ief2bpq6/3a7n9a1775641400623.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "",
+  "lien_detail": "https://agenda.coimbra.pt/event/crq8fkiltnwlwps5",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.178Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "70ec403728a5",
+  "titre": "Festa em honra de S. Silvestre 2026 - Guilhofrei",
+  "categories": [
+    "Festa",
+    "Arraial"
+  ],
+  "source": "FestasArraiais",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://cdn.festasearraiais.pt/thumbs/festa-em-honra-de-s-silvestre-2026-guilhofrei-9275-1776209509.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/eventos/festa-em-honra-de-s-silvestre-2026-guilhofrei-9275",
+  "source_url": "https://festasearraiais.pt/",
+  "scrape_at": "2026-05-05T22:29:45.345Z"
+}

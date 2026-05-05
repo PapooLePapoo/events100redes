@@ -1,0 +1,21 @@
+{
+  "id": "m38eckryz4peea8d",
+  "titre": "Cherchez la Femme, de António da Cunha Telles",
+  "categories": [
+    "cinema"
+  ],
+  "source": "UC",
+  "date_debut": "2026-05-05T14:45:00+01:00",
+  "date_fin": "2026-05-12T16:30:00+01:00",
+  "ongoing": true,
+  "lieu": "Casa do Cinema de Coimbra",
+  "image": null,
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/m38eckryz4peea8d",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.178Z"
+}

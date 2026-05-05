@@ -1,0 +1,22 @@
+{
+  "id": "981e03df8efd",
+  "titre": "Festa Amieira 2026 - Amieira",
+  "categories": [
+    "Festa",
+    "Arraial"
+  ],
+  "source": "FestasArraiais",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://cdn.festasearraiais.pt/thumbs/festa-amieira-2026-amieira-9386-1777544902.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/eventos/festa-amieira-2026-amieira-9386",
+  "source_url": "https://festasearraiais.pt/",
+  "scrape_at": "2026-05-05T22:29:45.346Z"
+}

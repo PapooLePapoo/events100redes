@@ -1,0 +1,21 @@
+{
+  "id": "6on93lm6yufk4xz9",
+  "titre": "O Guardador de Valor",
+  "categories": [
+    "tour_guide"
+  ],
+  "source": "CM Coimbra",
+  "date_debut": "2026-05-05T10:00:00+01:00",
+  "date_fin": "2026-05-29T16:00:00+01:00",
+  "ongoing": true,
+  "lieu": "Núcleos do Museu Municipal",
+  "image": "https://storage.fw.uc.pt/fp/4ctbcq0q9fshcoz4phshjk58exevui1q/bbbif1777914190722.JPG",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "",
+  "lien_detail": "https://agenda.coimbra.pt/event/6on93lm6yufk4xz9",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.178Z"
+}

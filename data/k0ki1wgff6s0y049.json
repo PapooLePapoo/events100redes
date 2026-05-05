@@ -1,0 +1,21 @@
+{
+  "id": "k0ki1wgff6s0y049",
+  "titre": "Exposição \"Matéria e Argumento\"",
+  "categories": [
+    "exhibition"
+  ],
+  "source": "CM Coimbra",
+  "date_debut": "2026-03-12T00:00:00+00:00",
+  "date_fin": "2026-06-07T01:00:00+01:00",
+  "ongoing": true,
+  "lieu": "Galeria Almedina",
+  "image": "https://storage.fw.uc.pt/fp/w2nzuqcffcjnequj2foj9pz03crdep6x/c699so1773068922263.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "",
+  "lien_detail": "https://agenda.coimbra.pt/event/k0ki1wgff6s0y049",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.178Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "078742e20733",
+  "titre": "Festa da Ascensão 2026 - Godim",
+  "categories": [
+    "Festa",
+    "Arraial"
+  ],
+  "source": "FestasArraiais",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://cdn.festasearraiais.pt/thumbs/festa-da-ascensao-2026-godim-9473-1777837865.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/eventos/festa-da-ascensao-2026-godim-9473",
+  "source_url": "https://festasearraiais.pt/",
+  "scrape_at": "2026-05-05T22:29:45.351Z"
+}

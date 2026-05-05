@@ -1,0 +1,22 @@
+{
+  "id": "581a0ea744ec",
+  "titre": "Feira Agrícola de Macedo de Cavaleiros 2026 - Macedo de Cavaleiros",
+  "categories": [
+    "Festa",
+    "Arraial"
+  ],
+  "source": "FestasArraiais",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://cdn.festasearraiais.pt/thumbs/feira-agricola-de-macedo-de-cavaleiros-2026-macedo-de-cavaleiros-9365-1777406941.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/eventos/feira-agricola-de-macedo-de-cavaleiros-2026-macedo-de-cavaleiros-9365",
+  "source_url": "https://festasearraiais.pt/",
+  "scrape_at": "2026-05-05T22:29:45.349Z"
+}

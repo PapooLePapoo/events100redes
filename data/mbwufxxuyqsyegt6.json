@@ -1,0 +1,21 @@
+{
+  "id": "mbwufxxuyqsyegt6",
+  "titre": "Projecto Global, de Ivo M. Ferreira",
+  "categories": [
+    "cinema"
+  ],
+  "source": "UC",
+  "date_debut": "2026-05-05T21:30:00+01:00",
+  "date_fin": "2026-05-13T19:00:00+01:00",
+  "ongoing": true,
+  "lieu": "Casa do Cinema de Coimbra",
+  "image": "https://storage.fw.uc.pt/fp/njprbrj1ttp95fh9sux9z274gt6paqww/projecto_global_carrossel_01.1200x0.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/mbwufxxuyqsyegt6",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.179Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "3r5prxb7yy8a8676",
+  "titre": "Comunidade de Leitores",
+  "categories": [
+    "literature"
+  ],
+  "source": "CM Coimbra",
+  "date_debut": "2026-01-14T16:09:15+00:00",
+  "date_fin": "2026-12-31T00:00:00+00:00",
+  "ongoing": true,
+  "lieu": "Biblioteca Municipal de Coimbra",
+  "image": "https://storage.fw.uc.pt/fp/gjc8qra4la12yhzqz0s9ctzkpndn9rd0/lm57k61768407027229.png",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "",
+  "lien_detail": "https://agenda.coimbra.pt/event/3r5prxb7yy8a8676",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-05T22:29:37.178Z"
+}
