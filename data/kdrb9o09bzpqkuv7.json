@@ -1,0 +1,21 @@
+{
+  "id": "kdrb9o09bzpqkuv7",
+  "titre": "Colóquio de Primavera - 7 de maio",
+  "categories": [
+    "conference"
+  ],
+  "source": "UC",
+  "date_debut": "2026-05-07T17:30:00+01:00",
+  "date_fin": "2026-05-07T19:00:00+01:00",
+  "ongoing": false,
+  "lieu": "Sala de São Pedro | BGUC",
+  "image": null,
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/kdrb9o09bzpqkuv7",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-06T14:19:33.611Z"
+}

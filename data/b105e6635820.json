@@ -1,0 +1,24 @@
+{
+  "id": "b105e6635820",
+  "titre": "Camila Senna é a artista de Maio do Alameda Art Spot",
+  "categories": [],
+  "source": "AondeVamos",
+  "date_debut": "2026-05-07T18:30",
+  "date_fin": "2026-05-07T22:00",
+  "ongoing": false,
+  "lieu": "Porto",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://aondevamos.pt/wp-content/uploads/2026/05/AL_27-3_IG_Artspot-5.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  "prix": {
+    "valeur": null,
+    "gratuit": true
+  },
+  "tickets_url": null,
+  "lien_detail": "https://aondevamos.pt/porto/exposicoes/camila-senna-e-a-artista-de-maio-do-alameda-art-spot/",
+  "source_url": "https://aondevamos.pt/",
+  "scrape_at": "2026-05-06T14:20:00.956Z"
+}

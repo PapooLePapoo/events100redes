@@ -5,7 +5,7 @@
   "source": "CM Coimbra",
   "date_debut": "2026-05-06T01:00:00+01:00",
   "date_fin": "2026-05-08T01:00:00+01:00",
-  "ongoing": false,
+  "ongoing": true,
   "lieu": "Teatro Académico de Gil Vicente",
   "image": "https://storage.fw.uc.pt/fp/ss4ulfsbt90tni2na2huwuv81k7jockb/uhqz3a1776703971339.png",
   "prix": {
@@ -15,5 +15,5 @@
   "tickets_url": "",
   "lien_detail": "https://agenda.coimbra.pt/event/9ysq0syuremf8zw6",
   "source_url": "https://agenda.coimbra.pt/",
-  "scrape_at": "2026-05-05T22:35:48.523Z"
+  "scrape_at": "2026-05-06T14:19:33.611Z"
 }

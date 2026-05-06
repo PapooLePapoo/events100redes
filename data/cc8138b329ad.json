@@ -1,0 +1,24 @@
+{
+  "id": "cc8138b329ad",
+  "titre": "Magic Fun no 8ª Avenida: Meet&amp;Greet mais esperado da semana",
+  "categories": [],
+  "source": "AondeVamos",
+  "date_debut": "2026-05-06T17:30",
+  "date_fin": "2026-05-06T19:30",
+  "ongoing": false,
+  "lieu": "Porto",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://aondevamos.pt/wp-content/uploads/2026/05/Press-Release_MagicFun-5-4.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  "prix": {
+    "valeur": null,
+    "gratuit": true
+  },
+  "tickets_url": null,
+  "lien_detail": "https://aondevamos.pt/porto/infantil/magic-fun-no-8a-avenida-meetgreet-mais-esperado-da-semana/",
+  "source_url": "https://aondevamos.pt/",
+  "scrape_at": "2026-05-06T14:20:00.490Z"
+}

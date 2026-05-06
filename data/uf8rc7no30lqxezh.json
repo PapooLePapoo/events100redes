@@ -1,0 +1,21 @@
+{
+  "id": "uf8rc7no30lqxezh",
+  "titre": "O Crime como Acto Performativo no Cinema",
+  "categories": [
+    "cinema"
+  ],
+  "source": "Ciclo de Teatro de Artes Performativas - Mimesis",
+  "date_debut": "2026-05-06T21:30:00+01:00",
+  "date_fin": "2026-05-27T23:30:00+01:00",
+  "ongoing": false,
+  "lieu": "Casa do Cinema de Coimbra",
+  "image": "https://storage.fw.uc.pt/fp/y05prtmjpoujdy3pbmyybnmrtbuyjtk9/caminhos_do_cinema.1200x0.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/uf8rc7no30lqxezh",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-06T14:19:33.611Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bf140524d86e",
+  "titre": "Quinzena Gastronómica do Polvo",
+  "categories": [],
+  "source": "Turismo Centro Portugal",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://turismodocentro.pt/wp-content/uploads/2025/05/XVII-QUINZENA-POLVO-2026-Lourinha-Mini-Noticia.webp",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://turismodocentro.pt/evento/quinzena-gastronomica-do-polvo/",
+  "source_url": "https://turismodocentro.pt/agenda/",
+  "scrape_at": "2026-05-06T14:19:50.352Z"
+}

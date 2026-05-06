@@ -1,0 +1,21 @@
+{
+  "id": "51ul3ibf4sm0qitz",
+  "titre": "Horizontes do Pensamento",
+  "categories": [
+    "conference"
+  ],
+  "source": "UC",
+  "date_debut": "2026-05-07T09:00:00+01:00",
+  "date_fin": "2026-05-08T18:30:00+01:00",
+  "ongoing": false,
+  "lieu": "SALA 15, 5.º PISO FACULDADE DE LETRAS DA UNIVERSIDADE DE COIMBRA",
+  "image": "https://storage.fw.uc.pt/fp/j5t6g68ifmet02fpgiw6o9bvkgvxr0yt/posts_horizontes_do_pensamento_programa.1200x0.png",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/51ul3ibf4sm0qitz",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-06T14:19:33.611Z"
+}

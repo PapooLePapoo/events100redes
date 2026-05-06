@@ -7,7 +7,7 @@
   "source": "CM Coimbra",
   "date_debut": "2026-05-06T01:00:00+01:00",
   "date_fin": "2026-05-10T01:00:00+01:00",
-  "ongoing": false,
+  "ongoing": true,
   "lieu": "Pavilhão Mário Mexia",
   "image": "https://storage.fw.uc.pt/fp/vajxxz84w9i5s9mlfwga9b0xi99f7ptb/m6ffdp1777988633770.jfif",
   "prix": {
@@ -17,5 +17,5 @@
   "tickets_url": "",
   "lien_detail": "https://agenda.coimbra.pt/event/43ntrrwona8ond42",
   "source_url": "https://agenda.coimbra.pt/",
-  "scrape_at": "2026-05-05T22:35:48.523Z"
+  "scrape_at": "2026-05-06T14:19:33.611Z"
 }

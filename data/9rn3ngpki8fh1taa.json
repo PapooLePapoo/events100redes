@@ -1,0 +1,21 @@
+{
+  "id": "9rn3ngpki8fh1taa",
+  "titre": "Seminário de Investigação de Doutoramento em Estudos Clássicos | 3.ª sessão",
+  "categories": [
+    "conference"
+  ],
+  "source": "UC",
+  "date_debut": "2026-05-06T14:00:00+01:00",
+  "date_fin": "2026-05-06T17:00:00+01:00",
+  "ongoing": true,
+  "lieu": "Sala do CECH (piso 5, FLUC)",
+  "image": "https://storage.fw.uc.pt/fp/4rc5n4zshi8phbx9q8tkpdb0saallvas/2026-05-06_dec-3_miniatura.1200x0.png",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/9rn3ngpki8fh1taa",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-06T14:19:33.611Z"
+}

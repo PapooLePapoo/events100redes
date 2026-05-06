@@ -1,0 +1,21 @@
+{
+  "id": "tpfren3e432u45rn",
+  "titre": "La Grazia, de Paolo Sorrentino",
+  "categories": [
+    "cinema"
+  ],
+  "source": "UC",
+  "date_debut": "2026-05-06T16:30:00+01:00",
+  "date_fin": "2026-05-13T14:30:00+01:00",
+  "ongoing": false,
+  "lieu": "Casa do Cinema de Coimbra",
+  "image": "https://storage.fw.uc.pt/fp/zrzgidb07ub4tf642bozq1cnc1hpqkty/la_grazia_carrossel_01.1200x0.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/tpfren3e432u45rn",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-06T14:19:33.611Z"
+}

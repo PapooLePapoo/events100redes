@@ -1,0 +1,19 @@
+{
+  "id": "049c86d1cac0",
+  "titre": "“GoGo Penguin”",
+  "categories": [],
+  "source": "ViralAgenda",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": null,
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/pt/events/1779193/gogo-penguin",
+  "source_url": "https://www.viralagenda.com/pt",
+  "scrape_at": "2026-05-06T14:19:43.501Z"
+}

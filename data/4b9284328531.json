@@ -1,0 +1,19 @@
+{
+  "id": "4b9284328531",
+  "titre": "Exposição “Memória Documentada” | Welcome Center Leiria",
+  "categories": [],
+  "source": "Turismo Centro Portugal",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://turismodocentro.pt/wp-content/uploads/2024/08/sede-turismo-do-centro-em-leiria.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://turismodocentro.pt/evento/exposicao-memoria-documentada/",
+  "source_url": "https://turismodocentro.pt/agenda/",
+  "scrape_at": "2026-05-06T14:19:52.258Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "02h2evw58p99r205",
+  "titre": "Atualidade de Camões",
+  "categories": [
+    "literature"
+  ],
+  "source": "CM Coimbra",
+  "date_debut": "2026-05-07T18:30:00+01:00",
+  "date_fin": "2026-05-07T01:00:00+01:00",
+  "ongoing": false,
+  "lieu": "Casa da Escrita",
+  "image": "https://storage.fw.uc.pt/fp/8jqqfyuahjuj1ectylxddrxe5aj420bx/uniiyg1777914342491.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "",
+  "lien_detail": "https://agenda.coimbra.pt/event/02h2evw58p99r205",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-06T14:19:33.611Z"
+}

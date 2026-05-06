@@ -1,0 +1,19 @@
+{
+  "id": "7799fa24df48",
+  "titre": "Feriado Municipal | Marinha Grande",
+  "categories": [],
+  "source": "Turismo Centro Portugal",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://turismodocentro.pt/wp-content/uploads/2026/05/dia_espiga_BANNER_DIGITAL.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://turismodocentro.pt/evento/feriado-municipal-marinha-grande/",
+  "source_url": "https://turismodocentro.pt/agenda/",
+  "scrape_at": "2026-05-06T14:19:48.392Z"
+}

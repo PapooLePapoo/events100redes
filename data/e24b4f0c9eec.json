@@ -1,0 +1,19 @@
+{
+  "id": "e24b4f0c9eec",
+  "titre": "Rock dos Romanos 2026",
+  "categories": [],
+  "source": "Turismo Centro Portugal",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": "https://turismodocentro.pt/wp-content/uploads/2025/03/rock-dos-romanos-2026.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://turismodocentro.pt/evento/rock-dos-romanos/",
+  "source_url": "https://turismodocentro.pt/agenda/",
+  "scrape_at": "2026-05-06T14:19:52.340Z"
+}
