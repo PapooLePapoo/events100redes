@@ -13,8 +13,8 @@
     "Amapiano"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-23",
-  "date_fin": "2026-05-24",
+  "date_debut": "2026-05-23T00:00:00",
+  "date_fin": "2026-05-24T00:00:00",
   "ongoing": false,
   "lieu": "Waikiki",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178771331%2F1625759547373%2F1%2Foriginal.20260302-092037?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5f47598b61dfbf5dde87d6d64cb045da",
@@ -25,5 +25,5 @@
   "tickets_url": "https://www.eventbrite.com/e/afrobbeach-2026-sat-23rd-may-tickets-1980544649361",
   "lien_detail": "https://www.eventbrite.com/e/afrobbeach-2026-sat-23rd-may-tickets-1980544649361",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.447Z"
+  "scrape_at": "2026-05-06T21:08:33.143Z"
 }

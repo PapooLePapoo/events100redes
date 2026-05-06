@@ -1,0 +1,19 @@
+{
+  "id": "bdec0f30411d",
+  "titre": "Quartas Perfeitas",
+  "categories": [],
+  "source": "ViralAgenda",
+  "date_debut": null,
+  "date_fin": null,
+  "ongoing": false,
+  "lieu": null,
+  "image": null,
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "/pt/events/1787794/quartas-perfeitas",
+  "source_url": "https://www.viralagenda.com/pt",
+  "scrape_at": "2026-05-06T21:08:48.129Z"
+}

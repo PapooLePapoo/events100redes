@@ -11,8 +11,8 @@
     "villaparty"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-07-01",
-  "date_fin": "2026-07-01",
+  "date_debut": "2026-07-01T00:00:00",
+  "date_fin": "2026-07-01T00:00:00",
   "ongoing": false,
   "lieu": "Condomínio Mira Luz Casa N, The best-rated area in Luz, Luz, 8600-117, Portugal",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1155741793%2F286846207694%2F1%2Foriginal.20251017-100429?w=320&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C18%2C320%2C160&s=f6c151ba04aa92d58b7d46c3aad2b1f3",
@@ -23,5 +23,5 @@
   "tickets_url": "https://www.eventbrite.co.uk/e/pool-party-riddim-villa-party-tickets-1837259615969",
   "lien_detail": "https://www.eventbrite.co.uk/e/pool-party-riddim-villa-party-tickets-1837259615969",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:41.944Z"
+  "scrape_at": "2026-05-06T21:08:45.845Z"
 }

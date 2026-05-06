@@ -11,8 +11,8 @@
     "mariachi_madeira"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-06-03",
-  "date_fin": "2026-06-03",
+  "date_debut": "2026-06-03T00:00:00",
+  "date_fin": "2026-06-03T00:00:00",
   "ongoing": false,
   "lieu": "Centro de Congressos da Madeira",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179267774%2F319406814563%2F1%2Foriginal.20260307-091003?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f8abd95176c0e700d9bf429cd3e34cf6",
@@ -23,5 +23,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/30-anos-del-mariachi-mexico-madeira-con-mariaca-semprun-tickets-1982592992009",
   "lien_detail": "https://www.eventbrite.pt/e/30-anos-del-mariachi-mexico-madeira-con-mariaca-semprun-tickets-1982592992009",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:41.944Z"
+  "scrape_at": "2026-05-06T21:08:45.845Z"
 }

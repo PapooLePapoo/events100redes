@@ -1,0 +1,24 @@
+{
+  "id": "1c1081f4ca9e",
+  "titre": "Rota do Caracol",
+  "categories": [],
+  "source": "AondeVamos",
+  "date_debut": "2026-05-07T00:00:00",
+  "date_fin": "2026-05-07T23:59:00",
+  "ongoing": false,
+  "lieu": "São Brás de Alportel",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://aondevamos.pt/wp-content/uploads/og-images/og-evento-19371.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://aondevamos.pt/sao-bras-de-alportel/festivais-gastronomicos/rota-do-caracol/",
+  "source_url": "https://aondevamos.pt/",
+  "scrape_at": "2026-05-06T21:09:17.875Z"
+}

@@ -12,8 +12,8 @@
     "brad_flook"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-29",
-  "date_fin": "2026-05-29",
+  "date_debut": "2026-05-29T00:00:00",
+  "date_fin": "2026-05-29T00:00:00",
   "ongoing": false,
   "lieu": "Praceta Beato Inácio de Azevedo 7",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182501087%2F2997590051474%2F1%2Foriginal.20260419-100925?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.081&fp-y=0.452&s=c8cfcba3e54395f3b92f787c11f674fc",
@@ -24,5 +24,5 @@
   "tickets_url": "https://www.eventbrite.com/e/bilhetes-conferencia-profetica-1987562743670",
   "lien_detail": "https://www.eventbrite.com/e/bilhetes-conferencia-profetica-1987562743670",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:40.385Z"
+  "scrape_at": "2026-05-06T21:08:42.142Z"
 }

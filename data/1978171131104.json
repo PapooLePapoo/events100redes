@@ -17,8 +17,8 @@
     "retreats2025"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-20",
-  "date_fin": "2026-05-24",
+  "date_debut": "2026-05-20T00:00:00",
+  "date_fin": "2026-05-24T00:00:00",
   "ongoing": false,
   "lieu": "SOC. AGRICULTURAL FARM SAN JOSÉ MONTES LDA.",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173077746%2F295950175475%2F1%2Foriginal.20251216-184601?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.501&fp-y=0.51&s=df4060f46a3898fc27257c7d1bbc3d03",
@@ -29,5 +29,5 @@
   "tickets_url": "https://www.eventbrite.co.uk/e/ecstatic-dance-spring-retreat-2024-may-registration-1978171131104",
   "lien_detail": "https://www.eventbrite.co.uk/e/ecstatic-dance-spring-retreat-2024-may-registration-1978171131104",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:38.645Z"
+  "scrape_at": "2026-05-06T21:08:39.218Z"
 }

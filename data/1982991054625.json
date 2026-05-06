@@ -7,8 +7,8 @@
     "Class, Training, or Workshop"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-13",
-  "date_fin": "2026-05-13",
+  "date_debut": "2026-05-13T00:00:00",
+  "date_fin": "2026-05-13T00:00:00",
   "ongoing": false,
   "lieu": "Location provided after booking",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F995135723%2F931232795353%2F1%2Foriginal.20250328-155834?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=99688fc9748eb118ee88cf2fceff3a92",
@@ -19,5 +19,5 @@
   "tickets_url": "https://www.eventbrite.com/e/crafting-the-pastel-da-nata-pastry-in-lisbon-cooking-class-in-lisbon-cozymealtm-tickets-1982991054625",
   "lien_detail": "https://www.eventbrite.com/e/crafting-the-pastel-da-nata-pastry-in-lisbon-cooking-class-in-lisbon-cozymealtm-tickets-1982991054625",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.448Z"
+  "scrape_at": "2026-05-06T21:08:33.144Z"
 }

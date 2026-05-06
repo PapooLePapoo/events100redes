@@ -7,8 +7,8 @@
     "Conference"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-06-21",
-  "date_fin": "2026-06-26",
+  "date_debut": "2026-06-21T00:00:00",
+  "date_fin": "2026-06-26T00:00:00",
   "ongoing": false,
   "lieu": "University Autónoma de Lisboa",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175694740%2F2105031701363%2F1%2Foriginal.20260123-234322?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=26a05a8e9be0d7b903857a0c3570fc66",
@@ -19,5 +19,5 @@
   "tickets_url": "https://www.eventbrite.com/e/ipes-2026-annual-meeting-of-the-international-police-executive-symposium-tickets-1978359404234",
   "lien_detail": "https://www.eventbrite.com/e/ipes-2026-annual-meeting-of-the-international-police-executive-symposium-tickets-1978359404234",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.448Z"
+  "scrape_at": "2026-05-06T21:08:33.144Z"
 }

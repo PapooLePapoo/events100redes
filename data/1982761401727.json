@@ -17,8 +17,8 @@
     "non_fungible_tokens"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-06-04",
-  "date_fin": "2026-06-06",
+  "date_debut": "2026-06-04T00:00:00",
+  "date_fin": "2026-06-06T00:00:00",
   "ongoing": false,
   "lieu": "Unicorn Factory Lisboa - Beato Innovation District",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177621390%2F1643083733693%2F1%2Foriginal.20260216-120417?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0a6f8fb7ff4b1f127d2efa3beaa27a9e",
@@ -29,5 +29,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/nfc-summit-2026-tickets-1982761401727",
   "lien_detail": "https://www.eventbrite.pt/e/nfc-summit-2026-tickets-1982761401727",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.447Z"
+  "scrape_at": "2026-05-06T21:08:33.143Z"
 }

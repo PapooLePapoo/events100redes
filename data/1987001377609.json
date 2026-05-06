@@ -16,8 +16,8 @@
     "totebag_upcycling"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-15",
-  "date_fin": "2026-05-15",
+  "date_debut": "2026-05-15T00:00:00",
+  "date_fin": "2026-05-15T00:00:00",
   "ongoing": false,
   "lieu": "CC Bombarda",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179045527%2F294392887234%2F1%2Foriginal.20260304-201345?w=400&auto=format%2Ccompress&q=75&sharp=10&s=7c759f91946e4365fededdbf97810179",
@@ -28,5 +28,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/clube-circular-porto-personalized-tote-bag-upcycling-workshop-tickets-1987001377609",
   "lien_detail": "https://www.eventbrite.pt/e/clube-circular-porto-personalized-tote-bag-upcycling-workshop-tickets-1987001377609",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:37.253Z"
+  "scrape_at": "2026-05-06T21:08:36.125Z"
 }

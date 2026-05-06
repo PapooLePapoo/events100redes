@@ -12,8 +12,8 @@
     "boardwalks"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-09",
-  "date_fin": "2026-05-09",
+  "date_debut": "2026-05-09T00:00:00",
+  "date_fin": "2026-05-09T00:00:00",
   "ongoing": false,
   "lieu": "Infante Dom Pedro Park",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180658994%2F2870563104901%2F1%2Foriginal.20260325-140643?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ea5a5be5cea0e3512fa1452af29b6bee",
@@ -24,5 +24,5 @@
   "tickets_url": "https://www.eventbrite.com/e/walk-talk-about-lifes-big-questions-registration-1985917171720",
   "lien_detail": "https://www.eventbrite.com/e/walk-talk-about-lifes-big-questions-registration-1985917171720",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:38.645Z"
+  "scrape_at": "2026-05-06T21:08:39.218Z"
 }

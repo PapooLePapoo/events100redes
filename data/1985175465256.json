@@ -17,8 +17,8 @@
     "classicalmusicconcert"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-07-21",
-  "date_fin": "2026-07-21",
+  "date_debut": "2026-07-21T00:00:00",
+  "date_fin": "2026-07-21T00:00:00",
   "ongoing": false,
   "lieu": "Colina De Camões",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179822188%2F311263878239%2F1%2Foriginal.20260313-233818?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4500%2C2250&s=002a6612977831db736cc10b96b64417",
@@ -29,5 +29,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/bilhetes-david-fray-piano-solo-no-festival-das-artes-quebrajazz-1985175465256",
   "lien_detail": "https://www.eventbrite.pt/e/bilhetes-david-fray-piano-solo-no-festival-das-artes-quebrajazz-1985175465256",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:38.644Z"
+  "scrape_at": "2026-05-06T21:08:39.218Z"
 }

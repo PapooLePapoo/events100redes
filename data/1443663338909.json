@@ -17,8 +17,8 @@
     "pd25"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-06-19",
-  "date_fin": "2026-06-19",
+  "date_debut": "2026-06-19T00:00:00",
+  "date_fin": "2026-06-19T00:00:00",
   "ongoing": false,
   "lieu": "Lisbon",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1062529983%2F2012116113463%2F1%2Foriginal.20250628-161139?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.0113636363636&fp-y=0.472118959108&s=2db6077e08a4c7986305ab26ef67dcb8",
@@ -29,5 +29,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/portugal-dreamin-2026-tickets-1443663338909",
   "lien_detail": "https://www.eventbrite.pt/e/portugal-dreamin-2026-tickets-1443663338909",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.448Z"
+  "scrape_at": "2026-05-06T21:08:33.144Z"
 }

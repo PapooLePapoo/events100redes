@@ -15,8 +15,8 @@
     "dignidade_menstrual"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-30",
-  "date_fin": "2026-05-30",
+  "date_debut": "2026-05-30T00:00:00",
+  "date_fin": "2026-05-30T00:00:00",
   "ongoing": false,
   "lieu": "IDEA Spaces - Saldanha",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183862059%2F2723392814081%2F1%2Foriginal.20260505-214757?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.652&fp-y=0.516&s=b68d0d8ecc84c58489c6789e1ccbac94",
@@ -27,5 +27,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/bilhetes-cimeira-menstruacao-do-silencio-a-palavra-1982389857428",
   "lien_detail": "https://www.eventbrite.pt/e/bilhetes-cimeira-menstruacao-do-silencio-a-palavra-1982389857428",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.448Z"
+  "scrape_at": "2026-05-06T21:08:33.144Z"
 }

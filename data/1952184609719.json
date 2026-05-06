@@ -12,8 +12,8 @@
     "iceer2026"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-07-15",
-  "date_fin": "2026-07-17",
+  "date_debut": "2026-07-15T00:00:00",
+  "date_fin": "2026-07-17T00:00:00",
   "ongoing": false,
   "lieu": "Polytechnic Institute of Porto",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1168848023%2F293320802810%2F1%2Foriginal.20251103-095700?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.924&fp-y=0.544&s=97ecc621f894cee28e676a929a53f61c",
@@ -24,5 +24,5 @@
   "tickets_url": "https://www.eventbrite.com/e/13th-international-conference-on-energy-and-environment-research-iceer2026-tickets-1952184609719",
   "lien_detail": "https://www.eventbrite.com/e/13th-international-conference-on-energy-and-environment-research-iceer2026-tickets-1952184609719",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:37.253Z"
+  "scrape_at": "2026-05-06T21:08:36.125Z"
 }

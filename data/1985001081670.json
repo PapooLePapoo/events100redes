@@ -12,8 +12,8 @@
     "juntos_pelajuda"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-09",
-  "date_fin": "2026-05-09",
+  "date_debut": "2026-05-09T00:00:00",
+  "date_fin": "2026-05-09T00:00:00",
   "ongoing": false,
   "lieu": "Quinta das Carpas",
   "image": null,
@@ -24,5 +24,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/almoco-solidario-tickets-1985001081670",
   "lien_detail": "https://www.eventbrite.pt/e/almoco-solidario-tickets-1985001081670",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:40.385Z"
+  "scrape_at": "2026-05-06T21:08:42.142Z"
 }

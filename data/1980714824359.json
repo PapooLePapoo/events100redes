@@ -1,0 +1,33 @@
+{
+  "id": "1980714824359",
+  "titre": "Porto - Fado Show with Guided Tour in S. Bento Monastery",
+  "categories": [
+    "State",
+    "Community & Culture",
+    "Concert or Performance",
+    "Music",
+    "Wine",
+    "Porto",
+    "Fado",
+    "fadoporto",
+    "portwine",
+    "portuguese_music",
+    "fadoshow",
+    "fadomusic",
+    "fadoconcert"
+  ],
+  "source": "Eventbrite",
+  "date_debut": "2026-05-07T00:00:00",
+  "date_fin": "2026-05-07T00:00:00",
+  "ongoing": false,
+  "lieu": "Rua das Taipas 94",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173196252%2F281314027626%2F1%2Foriginal.20251218-122133?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C352%2C6000%2C3000&s=a263bc8c25c3695e093e04ca9c6a9e4d",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": "https://www.eventbrite.pt/e/bilhetes-porto-fado-show-with-guided-tour-in-s-bento-monastery-1980714824359",
+  "lien_detail": "https://www.eventbrite.pt/e/bilhetes-porto-fado-show-with-guided-tour-in-s-bento-monastery-1980714824359",
+  "source_url": "https://www.eventbrite.pt/",
+  "scrape_at": "2026-05-06T21:08:36.124Z"
+}

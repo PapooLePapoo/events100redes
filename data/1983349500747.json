@@ -16,8 +16,8 @@
     "lavoz"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-17",
-  "date_fin": "2026-05-17",
+  "date_debut": "2026-05-17T00:00:00",
+  "date_fin": "2026-05-17T00:00:00",
   "ongoing": false,
   "lieu": "Auditório Francisco de Assis",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177892508%2F319406814563%2F1%2Foriginal.20260219-001122?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1%2C2540%2C1270&s=dbe55fe1812f489f2a6ee007da98db2a",
@@ -28,5 +28,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/karina-freedom-tour-2026-oporto-tickets-1983349500747",
   "lien_detail": "https://www.eventbrite.pt/e/karina-freedom-tour-2026-oporto-tickets-1983349500747",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:37.253Z"
+  "scrape_at": "2026-05-06T21:08:36.124Z"
 }

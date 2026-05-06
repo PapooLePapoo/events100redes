@@ -17,8 +17,8 @@
     "Maio"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-19",
-  "date_fin": "2026-05-19",
+  "date_debut": "2026-05-19T00:00:00",
+  "date_fin": "2026-05-19T00:00:00",
   "ongoing": false,
   "lieu": "Culturgest",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173601951%2F134303633301%2F1%2Foriginal.20251228-161909?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C49%2C1920%2C960&s=6e653cdebf423185d4841ddb4a1c921f",
@@ -29,5 +29,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/bilhetes-tedx-lisboa-2026-immaterial-world-1977140997948",
   "lien_detail": "https://www.eventbrite.pt/e/bilhetes-tedx-lisboa-2026-immaterial-world-1977140997948",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.448Z"
+  "scrape_at": "2026-05-06T21:08:33.143Z"
 }

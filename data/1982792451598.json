@@ -11,8 +11,8 @@
     "lisbon_live"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-07-05",
-  "date_fin": "2026-07-05",
+  "date_debut": "2026-07-05T00:00:00",
+  "date_fin": "2026-07-05T00:00:00",
   "ongoing": false,
   "lieu": "Capitólio",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179690438%2F2600993917661%2F1%2Foriginal.20260312-145057?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=170cfa499d81346e965fa64f65174a00",
@@ -23,5 +23,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/emel-mathlouthi-live-in-lisbon-tickets-1982792451598",
   "lien_detail": "https://www.eventbrite.pt/e/emel-mathlouthi-live-in-lisbon-tickets-1982792451598",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.448Z"
+  "scrape_at": "2026-05-06T21:08:33.144Z"
 }

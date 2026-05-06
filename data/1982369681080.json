@@ -17,8 +17,8 @@
     "yoga_portugal"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-10-02",
-  "date_fin": "2026-10-15",
+  "date_debut": "2026-10-02T00:00:00",
+  "date_fin": "2026-10-15T00:00:00",
   "ongoing": false,
   "lieu": "Rua Outeiro De Celas",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1157009113%2F1870562294653%2F1%2Foriginal.20251019-155331?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.53&fp-y=0.233&s=4c7c16c0b2bac5e6f184bac39391bfe7",
@@ -29,5 +29,5 @@
   "tickets_url": "https://www.eventbrite.co.uk/e/200-hour-yoga-teacher-training-portugal-registration-1982369681080",
   "lien_detail": "https://www.eventbrite.co.uk/e/200-hour-yoga-teacher-training-portugal-registration-1982369681080",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:40.385Z"
+  "scrape_at": "2026-05-06T21:08:42.142Z"
 }

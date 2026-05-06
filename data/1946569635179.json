@@ -17,8 +17,8 @@
     "Meetnewpeople"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-09",
-  "date_fin": "2026-05-09",
+  "date_debut": "2026-05-09T00:00:00",
+  "date_fin": "2026-05-09T00:00:00",
   "ongoing": false,
   "lieu": "Restaurant of the Week",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1152479563%2F2590974569761%2F1%2Foriginal.20251014-030410?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ef309aedf8acb0160d4c19838df4606f",
@@ -29,5 +29,5 @@
   "tickets_url": "https://www.eventbrite.com/e/100-cities-project-porto-dinner-with-new-friends-tickets-1946569635179",
   "lien_detail": "https://www.eventbrite.com/e/100-cities-project-porto-dinner-with-new-friends-tickets-1946569635179",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:37.253Z"
+  "scrape_at": "2026-05-06T21:08:36.124Z"
 }

@@ -3,8 +3,8 @@
   "titre": "A Volta de Miles Davis e John Coltrane &#8211; 100 Anos de Miles e Coltrane",
   "categories": [],
   "source": "AondeVamos",
-  "date_debut": "2026-05-08T00:00",
-  "date_fin": "2026-05-08T23:59",
+  "date_debut": "2026-05-08T00:00:00",
+  "date_fin": "2026-05-08T23:59:00",
   "ongoing": false,
   "lieu": "Centro Cultural de Belu00e9m, Prau00e7a do Impu00e9rio, Lisboa, Portugal",
   "image": {
@@ -20,5 +20,5 @@
   "tickets_url": null,
   "lien_detail": "https://aondevamos.pt/lisboa/espetaculos/volta-de-miles-davis-e-john-coltrane/",
   "source_url": "https://aondevamos.pt/",
-  "scrape_at": "2026-05-06T14:20:01.630Z"
+  "scrape_at": "2026-05-06T21:09:13.760Z"
 }

@@ -15,8 +15,8 @@
     "el_sol_lifestyle"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-07",
-  "date_fin": "2026-05-07",
+  "date_debut": "2026-05-07T00:00:00",
+  "date_fin": "2026-05-07T00:00:00",
   "ongoing": false,
   "lieu": "Forte Ponta da Bandeira",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183196728%2F1486443524243%2F1%2Foriginal.20260428-065328?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.452&fp-y=0.615&s=805648416c0050b6ec2560e43003d845",
@@ -27,5 +27,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/yoga-brunch-in-lagos-by-el-sol-lifestyle-tickets-1986338151883",
   "lien_detail": "https://www.eventbrite.pt/e/yoga-brunch-in-lagos-by-el-sol-lifestyle-tickets-1986338151883",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:41.944Z"
+  "scrape_at": "2026-05-06T21:08:45.845Z"
 }

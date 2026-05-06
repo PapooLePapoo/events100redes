@@ -1,0 +1,21 @@
+{
+  "id": "8z2bbb14mt8bsa1c",
+  "titre": "\"Pareciam homens ao longe\", de Gil Vicente Tavares | A ESCOLA DA NOITE",
+  "categories": [
+    "theater"
+  ],
+  "source": "UC",
+  "date_debut": "2026-05-07T19:00:00+01:00",
+  "date_fin": "2026-05-31T17:30:00+01:00",
+  "ongoing": false,
+  "lieu": "Teatro da Cerca de São Bernardo",
+  "image": "https://storage.fw.uc.pt/fp/9aikyc617thj45nxlkcyedbv4xknv6mn/cartaz_pareciam_homens_ao_longe_square.1200x0.jpg",
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://agenda.coimbra.pt/event/8z2bbb14mt8bsa1c",
+  "source_url": "https://agenda.coimbra.pt/",
+  "scrape_at": "2026-05-06T21:08:29.784Z"
+}

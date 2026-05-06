@@ -3,8 +3,8 @@
   "titre": "Feira Náutica de Setúbal",
   "categories": [],
   "source": "AondeVamos",
-  "date_debut": "2026-05-07T00:00",
-  "date_fin": "2026-05-07T23:59",
+  "date_debut": "2026-05-07T00:00:00",
+  "date_fin": "2026-05-07T23:59:00",
   "ongoing": false,
   "lieu": "Setúbal",
   "image": {
@@ -20,5 +20,5 @@
   "tickets_url": null,
   "lien_detail": "https://aondevamos.pt/setubal/festas-e-festivais/feira-nautica-de-setubal/",
   "source_url": "https://aondevamos.pt/",
-  "scrape_at": "2026-05-06T14:20:01.213Z"
+  "scrape_at": "2026-05-06T21:09:13.454Z"
 }

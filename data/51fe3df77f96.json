@@ -1,0 +1,24 @@
+{
+  "id": "51fe3df77f96",
+  "titre": "Two Door Cinema Club — Porto",
+  "categories": [],
+  "source": "AondeVamos",
+  "date_debut": "2026-06-03T00:00:00",
+  "date_fin": "2026-06-03T23:59:00",
+  "ongoing": false,
+  "lieu": "Super Bock Arena, Rua de Dom Manuel II, Porto, Portugal",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://aondevamos.pt/wp-content/uploads/og-images/og-evento-458.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://aondevamos.pt/porto/espetaculos/two-door-cinema-club-porto/",
+  "source_url": "https://aondevamos.pt/",
+  "scrape_at": "2026-05-06T21:09:16.626Z"
+}

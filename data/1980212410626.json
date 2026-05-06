@@ -3,8 +3,8 @@
   "titre": "Floresça Experience Lisboa 2026",
   "categories": [],
   "source": "Eventbrite",
-  "date_debut": "2026-05-23",
-  "date_fin": "2026-05-23",
+  "date_debut": "2026-05-23T00:00:00",
+  "date_fin": "2026-05-23T00:00:00",
   "ongoing": false,
   "lieu": "EPIC SANA Marquês Hotel",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174561004%2F1424828215243%2F1%2Foriginal.20260111-201001?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.777&fp-y=0.876&s=0827195aad4e956f68bcf86014b8fa05",
@@ -15,5 +15,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/bilhetes-floresca-experience-lisboa-2026-1980212410626",
   "lien_detail": "https://www.eventbrite.pt/e/bilhetes-floresca-experience-lisboa-2026-1980212410626",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.447Z"
+  "scrape_at": "2026-05-06T21:08:33.143Z"
 }

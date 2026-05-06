@@ -1,0 +1,24 @@
+{
+  "id": "f269e29ccb6f",
+  "titre": "Two Door Cinema Club — Lisboa",
+  "categories": [],
+  "source": "AondeVamos",
+  "date_debut": "2026-06-04T00:00:00",
+  "date_fin": "2026-06-04T23:59:00",
+  "ongoing": false,
+  "lieu": "Coliseu dos Recreios",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://aondevamos.pt/wp-content/uploads/og-images/og-evento-459.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  "prix": {
+    "valeur": null,
+    "gratuit": false
+  },
+  "tickets_url": null,
+  "lien_detail": "https://aondevamos.pt/lisboa/diversos/two-door-cinema-club-lisboa/",
+  "source_url": "https://aondevamos.pt/",
+  "scrape_at": "2026-05-06T21:09:16.869Z"
+}

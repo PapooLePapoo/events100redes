@@ -7,8 +7,8 @@
     "Class, Training, or Workshop"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-09",
-  "date_fin": "2026-05-09",
+  "date_debut": "2026-05-09T00:00:00",
+  "date_fin": "2026-05-09T00:00:00",
   "ongoing": false,
   "lieu": "Location provided after booking",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F603438229%2F931232795353%2F1%2Foriginal.20230921-165654?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ee8c65da0b0ff5fb44904eba547824a5",
@@ -19,5 +19,5 @@
   "tickets_url": "https://www.eventbrite.com/e/lisbons-best-bites-food-tour-in-lisbon-cozymealtm-tickets-1982625941562",
   "lien_detail": "https://www.eventbrite.com/e/lisbons-best-bites-food-tour-in-lisbon-cozymealtm-tickets-1982625941562",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.448Z"
+  "scrape_at": "2026-05-06T21:08:33.144Z"
 }

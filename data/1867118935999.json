@@ -12,8 +12,8 @@
     "corra"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-11-28",
-  "date_fin": "2026-11-28",
+  "date_debut": "2026-11-28T00:00:00",
+  "date_fin": "2026-11-28T00:00:00",
   "ongoing": false,
   "lieu": "Casa do Povo de Vermoim",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1161113653%2F249606729396%2F1%2Foriginal.20251023-204939?w=400&auto=format%2Ccompress&q=75&sharp=10&s=23c6ce373aced3c33e799a06fcef3ed2",
@@ -24,5 +24,5 @@
   "tickets_url": "https://www.eventbrite.com.br/e/conferencia-onda-dura-2026-ekklesia-europa-tickets-1867118935999",
   "lien_detail": "https://www.eventbrite.com.br/e/conferencia-onda-dura-2026-ekklesia-europa-tickets-1867118935999",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:37.253Z"
+  "scrape_at": "2026-05-06T21:08:36.125Z"
 }

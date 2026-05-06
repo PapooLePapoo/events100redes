@@ -1,0 +1,24 @@
+{
+  "id": "d7107945de14",
+  "titre": "São João na Praia da Aguda",
+  "categories": [],
+  "source": "AondeVamos",
+  "date_debut": "2026-06-23T00:00:00",
+  "date_fin": "2026-06-23T23:59:00",
+  "ongoing": false,
+  "lieu": "Lota do Peixe - Praia da Aguda",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://aondevamos.pt/wp-content/uploads/2026/04/sao_joao_vila_nova_de-gaia.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  "prix": {
+    "valeur": null,
+    "gratuit": true
+  },
+  "tickets_url": null,
+  "lien_detail": "https://aondevamos.pt/vila-nova-de-foz-coa/festas-dos-santos-populares/sao-joao-na-praia-da-aguda/",
+  "source_url": "https://aondevamos.pt/",
+  "scrape_at": "2026-05-06T21:09:15.310Z"
+}

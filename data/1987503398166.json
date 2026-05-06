@@ -8,8 +8,8 @@
     "Afrohouse"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-15",
-  "date_fin": "2026-05-15",
+  "date_debut": "2026-05-15T00:00:00",
+  "date_fin": "2026-05-15T00:00:00",
   "ongoing": false,
   "lieu": "Praça da República",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182216604%2F2998698896433%2F1%2Foriginal.20260415-105724?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.507&fp-y=1.0&s=c6cac68a5bba8b1c141df4bc8eda961c",
@@ -20,5 +20,5 @@
   "tickets_url": "https://www.eventbrite.com/e/bilhetes-the-start-1987503398166",
   "lien_detail": "https://www.eventbrite.com/e/bilhetes-the-start-1987503398166",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:38.644Z"
+  "scrape_at": "2026-05-06T21:08:39.217Z"
 }

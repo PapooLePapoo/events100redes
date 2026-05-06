@@ -10,8 +10,8 @@
     "easpd"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-14",
-  "date_fin": "2026-05-15",
+  "date_debut": "2026-05-14T00:00:00",
+  "date_fin": "2026-05-15T00:00:00",
   "ongoing": false,
   "lieu": "Alfandega Congress Center",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176763884%2F460683238104%2F1%2Foriginal.20260205-110642?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1ed9cbf4880b609a93ef04f8aa10ec8b",
@@ -22,5 +22,5 @@
   "tickets_url": "https://www.eventbrite.be/e/leading-change-in-disability-services-registration-1982426751780",
   "lien_detail": "https://www.eventbrite.be/e/leading-change-in-disability-services-registration-1982426751780",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:37.253Z"
+  "scrape_at": "2026-05-06T21:08:36.124Z"
 }

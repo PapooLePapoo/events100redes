@@ -16,8 +16,8 @@
     "djangoportugalfest"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-05-08",
-  "date_fin": "2026-05-08",
+  "date_debut": "2026-05-08T00:00:00",
+  "date_fin": "2026-05-08T00:00:00",
   "ongoing": false,
   "lieu": "Fábrica Braço De Prata",
   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171692717%2F273591747426%2F1%2Foriginal.20251125-011619?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=60bd811638c6497281f47306c339f9ed",
@@ -28,5 +28,5 @@
   "tickets_url": "https://www.eventbrite.pt/e/adrien-moignard-trio-django-portugal-fest-tickets-1975366719032",
   "lien_detail": "https://www.eventbrite.pt/e/adrien-moignard-trio-django-portugal-fest-tickets-1975366719032",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:35.448Z"
+  "scrape_at": "2026-05-06T21:08:33.144Z"
 }

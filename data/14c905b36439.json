@@ -1,0 +1,24 @@
+{
+  "id": "14c905b36439",
+  "titre": "Festas de São Pedro de Porto de Mós",
+  "categories": [],
+  "source": "AondeVamos",
+  "date_debut": "2026-06-27T00:00:00",
+  "date_fin": "2026-06-27T23:59:00",
+  "ongoing": false,
+  "lieu": "Porto de Mós, Leiria District, Portugal",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://aondevamos.pt/wp-content/uploads/2026/04/festas_sao_pedro_porto_de-mos_2026.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  "prix": {
+    "valeur": null,
+    "gratuit": true
+  },
+  "tickets_url": null,
+  "lien_detail": "https://aondevamos.pt/porto-de-mos/festas-e-festivais/festas-de-sao-pedro-de-porto-de-mos/",
+  "source_url": "https://aondevamos.pt/",
+  "scrape_at": "2026-05-06T21:09:15.857Z"
+}

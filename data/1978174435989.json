@@ -17,11 +17,11 @@
     "retreats2025"
   ],
   "source": "Eventbrite",
-  "date_debut": "2026-10-21",
-  "date_fin": "2026-10-25",
+  "date_debut": "2026-10-21T00:00:00",
+  "date_fin": "2026-10-25T00:00:00",
   "ongoing": false,
   "lieu": "SOC. AGRICULTURAL FARM SAN JOSÉ MONTES LDA.",
-  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173080036%2F295950175475%2F1%2Foriginal.20251216-191330?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f1a36bf778b3828a2f8b500d1afeafc0",
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173080036%2F295950175475%2F1%2Foriginal.20251216-191330?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=28181186253fb34ec8880825e466472d",
   "prix": {
     "valeur": null,
     "gratuit": false
@@ -29,5 +29,5 @@
   "tickets_url": "https://www.eventbrite.co.uk/e/ecstatic-womens-retreat-2125-october-registration-1978174435989",
   "lien_detail": "https://www.eventbrite.co.uk/e/ecstatic-womens-retreat-2125-october-registration-1978174435989",
   "source_url": "https://www.eventbrite.pt/",
-  "scrape_at": "2026-05-06T14:19:38.645Z"
+  "scrape_at": "2026-05-06T21:08:39.218Z"
 }
