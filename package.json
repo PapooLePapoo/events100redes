@@ -1,0 +1,19 @@
+{
+  "name": "multi-site-event-scraper",
+  "version": "2.0.0",
+  "description": "Scraper multi-sites d'événements — Eventbrite, 3cket, ViralAgenda, TurismoCentro, FestasArraiais, Feverup, Ticketline, AondeVamos, AgendaCoimbra",
+  "type": "module",
+  "main": "scraper.js",
+  "scripts": {
+    "start":  "node scraper.js",
+    "scrape": "node scraper.js",
+    "test":   "node --env-file=.env scraper.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "license": "MIT"
+}
